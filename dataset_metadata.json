@@ -1,0 +1,5447 @@
+{
+  "categories": {
+    "釘子": {
+      "description": "",
+      "created_at": "2026-06-27T14:46:45.406152"
+    },
+    "墊片": {
+      "description": "",
+      "created_at": "2026-06-27T14:49:43.944043"
+    },
+    "彈簧": {
+      "description": "",
+      "created_at": "2026-06-27T14:56:09.854721"
+    },
+    "華司": {
+      "description": "",
+      "created_at": "2026-06-27T14:57:22.773370"
+    },
+    "螺絲": {
+      "description": "",
+      "created_at": "2026-06-27T14:57:54.999464"
+    },
+    "鮮果/蘋果": {
+      "group": "鮮果",
+      "name": "蘋果",
+      "preset": true
+    },
+    "鮮果/香蕉": {
+      "group": "鮮果",
+      "name": "香蕉",
+      "preset": true
+    },
+    "鮮果/橘子": {
+      "group": "鮮果",
+      "name": "橘子",
+      "preset": true
+    },
+    "鮮果/葡萄": {
+      "group": "鮮果",
+      "name": "葡萄",
+      "preset": true
+    },
+    "鮮果/西瓜": {
+      "group": "鮮果",
+      "name": "西瓜",
+      "preset": true
+    },
+    "1/螺絲": {
+      "group": "1",
+      "name": "螺絲",
+      "preset": true
+    },
+    "1/螺母": {
+      "group": "1",
+      "name": "螺母",
+      "preset": true
+    },
+    "1/墊片": {
+      "group": "1",
+      "name": "墊片",
+      "preset": true
+    },
+    "1/扳手": {
+      "group": "1",
+      "name": "扳手",
+      "preset": true
+    },
+    "1/螺栓": {
+      "group": "1",
+      "name": "螺栓",
+      "preset": true
+    },
+    "水果/蘋果": {
+      "group": "水果",
+      "name": "蘋果",
+      "description": "",
+      "created_at": "2026-06-27T15:49:50.450847"
+    },
+    "水果/香蕉": {
+      "group": "水果",
+      "name": "香蕉",
+      "description": "",
+      "created_at": "2026-06-27T15:38:36.865163"
+    },
+    "水果/橘子": {
+      "group": "水果",
+      "name": "橘子",
+      "description": "",
+      "created_at": "2026-07-25T11:26:33.651375"
+    },
+    "水果/葡萄": {
+      "group": "水果",
+      "name": "葡萄",
+      "description": "",
+      "created_at": "2026-07-25T11:26:23.879294"
+    },
+    "水果/西瓜": {
+      "group": "水果",
+      "name": "西瓜",
+      "description": "",
+      "created_at": "2026-06-27T15:50:47.703225"
+    },
+    "五金/墊片": {
+      "group": "五金",
+      "name": "墊片",
+      "description": "",
+      "created_at": "2026-06-27T15:37:00.243846"
+    },
+    "水果/草莓": {
+      "group": "水果",
+      "name": "草莓",
+      "description": "",
+      "created_at": "2026-06-27T15:40:11.736660"
+    },
+    "水果/芒果": {
+      "group": "水果",
+      "name": "芒果",
+      "description": "",
+      "created_at": "2026-07-25T22:33:09.863499"
+    },
+    "五金/燈": {
+      "group": "五金",
+      "name": "燈",
+      "description": "",
+      "created_at": "2026-08-22T19:32:07.780817"
+    },
+    "日常用品/外套": {
+      "group": "日常用品",
+      "name": "外套",
+      "description": "",
+      "created_at": "2026-08-07T19:47:16.212368"
+    },
+    "3c/手錶": {
+      "group": "3c",
+      "name": "手錶",
+      "description": "",
+      "created_at": "2026-07-26T11:51:18.196964"
+    },
+    "日常用品/手機": {
+      "group": "日常用品",
+      "name": "手機",
+      "description": "",
+      "created_at": "2026-08-14T13:05:09.954857"
+    },
+    "電子器材/電視": {
+      "group": "電子器材",
+      "name": "電視",
+      "description": "",
+      "created_at": "2026-08-06T11:29:46.253472"
+    },
+    "電子器材/上機盒": {
+      "group": "電子器材",
+      "name": "上機盒",
+      "description": "",
+      "created_at": "2026-08-14T12:41:06.210462"
+    },
+    "日常用品/書": {
+      "group": "日常用品",
+      "name": "書",
+      "description": "",
+      "created_at": "2026-08-07T19:48:08.282103"
+    },
+    "3c/鍵盤": {
+      "group": "3c",
+      "name": "鍵盤",
+      "description": "",
+      "created_at": "2026-08-06T11:42:16.380646"
+    },
+    "日常用品/書本": {
+      "group": "日常用品",
+      "name": "書本",
+      "description": "",
+      "created_at": "2026-08-07T19:48:53.662914"
+    },
+    "五金/起子": {
+      "group": "五金",
+      "name": "起子",
+      "description": "",
+      "created_at": "2026-08-22T22:00:08.593978"
+    },
+    "電子器材/相機": {
+      "group": "電子器材",
+      "name": "相機",
+      "description": "",
+      "created_at": "2026-08-13T13:10:04.155456"
+    },
+    "文具/鉛筆": {
+      "group": "文具",
+      "name": "鉛筆",
+      "description": "",
+      "created_at": "2026-08-14T12:36:12.725349"
+    },
+    "文具/自動鉛筆": {
+      "group": "文具",
+      "name": "自動鉛筆",
+      "description": "",
+      "created_at": "2026-08-14T12:38:10.565201"
+    },
+    "飲食用品/碟子": {
+      "group": "飲食用品",
+      "name": "碟子",
+      "description": "",
+      "created_at": "2026-08-14T12:39:52.505082"
+    },
+    "電子器材/滑鼠": {
+      "group": "電子器材",
+      "name": "滑鼠",
+      "description": "",
+      "created_at": "2026-08-22T22:01:57.980752"
+    },
+    "電子器材/螢幕": {
+      "group": "電子器材",
+      "name": "螢幕",
+      "description": "",
+      "created_at": "2026-08-14T12:41:48.941421"
+    },
+    "日常用品/冷氣": {
+      "group": "日常用品",
+      "name": "冷氣",
+      "description": "",
+      "created_at": "2026-08-22T19:06:42.260558"
+    },
+    "家中物品/布簾": {
+      "group": "家中物品",
+      "name": "布簾",
+      "description": "",
+      "created_at": "2026-08-14T12:44:39.366416"
+    },
+    "電子器材/耳機": {
+      "group": "電子器材",
+      "name": "耳機",
+      "description": "",
+      "created_at": "2026-08-22T22:26:00.760078"
+    },
+    "電子器材/鍵盤": {
+      "group": "電子器材",
+      "name": "鍵盤",
+      "description": "",
+      "created_at": "2026-08-22T19:19:39.228358"
+    },
+    "包裝物品/盒子": {
+      "group": "包裝物品",
+      "name": "盒子",
+      "description": "",
+      "created_at": "2026-08-23T00:07:18.234734"
+    },
+    "電子器材/電子書": {
+      "group": "電子器材",
+      "name": "電子書",
+      "description": "",
+      "created_at": "2026-08-14T12:54:11.087369"
+    },
+    "飲食用品/碗": {
+      "group": "飲食用品",
+      "name": "碗",
+      "description": "",
+      "created_at": "2026-08-14T12:55:31.853964"
+    },
+    "飲食用品/筷子": {
+      "group": "飲食用品",
+      "name": "筷子",
+      "description": "",
+      "created_at": "2026-08-14T12:56:35.811105"
+    },
+    "飲食用品/叉子": {
+      "group": "飲食用品",
+      "name": "叉子",
+      "description": "",
+      "created_at": "2026-08-14T12:57:04.768513"
+    },
+    "飲食用品/湯匙": {
+      "group": "飲食用品",
+      "name": "湯匙",
+      "description": "",
+      "created_at": "2026-08-14T12:57:27.874599"
+    },
+    "電子器材/電腦": {
+      "group": "電子器材",
+      "name": "電腦",
+      "description": "",
+      "created_at": "2026-08-14T12:59:00.571203"
+    },
+    "五金/磁碟": {
+      "group": "五金",
+      "name": "磁碟",
+      "description": "",
+      "created_at": "2026-08-14T13:00:33.549593"
+    },
+    "日常用品/眼鏡": {
+      "group": "日常用品",
+      "name": "眼鏡",
+      "description": "",
+      "created_at": "2026-08-14T13:02:02.536126"
+    },
+    "日常用品/拖鞋": {
+      "group": "日常用品",
+      "name": "拖鞋",
+      "description": "",
+      "created_at": "2026-08-14T13:06:37.610813"
+    },
+    "運動用品/一般腳踏車": {
+      "group": "運動用品",
+      "name": "一般腳踏車",
+      "description": "",
+      "created_at": "2026-08-22T18:57:21.767580"
+    },
+    "運動用品/電動腳踏車": {
+      "group": "運動用品",
+      "name": "電動腳踏車",
+      "description": "",
+      "created_at": "2026-08-22T19:01:04.517237"
+    },
+    "日常用品/袋子": {
+      "group": "日常用品",
+      "name": "袋子",
+      "description": "",
+      "created_at": "2026-08-22T19:01:29.773874"
+    },
+    "日常用品/膠帶": {
+      "group": "日常用品",
+      "name": "膠帶",
+      "description": "",
+      "created_at": "2026-08-22T19:07:00.844444"
+    },
+    "金錢/紙鈔": {
+      "group": "金錢",
+      "name": "紙鈔",
+      "description": "",
+      "created_at": "2026-08-22T19:10:50.213190"
+    },
+    "金錢/硬幣": {
+      "group": "金錢",
+      "name": "硬幣",
+      "description": "",
+      "created_at": "2026-08-22T19:13:14.153721"
+    },
+    "五金/打火機": {
+      "group": "五金",
+      "name": "打火機",
+      "description": "",
+      "created_at": "2026-08-22T19:22:34.936565"
+    },
+    "清潔用品/衛生紙": {
+      "group": "清潔用品",
+      "name": "衛生紙",
+      "description": "",
+      "created_at": "2026-08-22T22:19:39.975263"
+    },
+    "電子器材/路由器": {
+      "group": "電子器材",
+      "name": "路由器",
+      "description": "",
+      "created_at": "2026-08-22T19:25:43.658492"
+    },
+    "家中物品/眼鏡盒": {
+      "group": "家中物品",
+      "name": "眼鏡盒",
+      "description": "",
+      "created_at": "2026-08-22T19:26:48.010277"
+    },
+    "煮飯用品/剪刀": {
+      "group": "煮飯用品",
+      "name": "剪刀",
+      "description": "",
+      "created_at": "2026-08-22T19:27:39.477326"
+    },
+    "煮飯用品/嫂子": {
+      "group": "煮飯用品",
+      "name": "嫂子",
+      "description": "",
+      "created_at": "2026-08-22T19:28:16.563401"
+    },
+    "清潔用品/浴巾": {
+      "group": "清潔用品",
+      "name": "浴巾",
+      "description": "",
+      "created_at": "2026-08-22T19:28:51.620887"
+    },
+    "日常用品/皮夾": {
+      "group": "日常用品",
+      "name": "皮夾",
+      "description": "",
+      "created_at": "2026-08-22T19:29:34.908702"
+    },
+    "穿著用品/衣架": {
+      "group": "穿著用品",
+      "name": "衣架",
+      "description": "",
+      "created_at": "2026-08-22T19:31:14.443840"
+    },
+    "電子器材/麥克風": {
+      "group": "電子器材",
+      "name": "麥克風",
+      "description": "",
+      "created_at": "2026-08-22T19:34:16.996030"
+    },
+    "日常用品/眼罩": {
+      "group": "日常用品",
+      "name": "眼罩",
+      "description": "",
+      "created_at": "2026-08-22T19:36:05.577228"
+    },
+    "文具/原子筆": {
+      "group": "文具",
+      "name": "原子筆",
+      "description": "",
+      "created_at": "2026-08-22T22:00:49.098633"
+    },
+    "包裝物品/橡皮擦": {
+      "group": "包裝物品",
+      "name": "橡皮擦",
+      "description": "",
+      "created_at": "2026-08-23T00:05:06.297016"
+    },
+    "穿著用品/襪子": {
+      "group": "穿著用品",
+      "name": "襪子",
+      "description": "",
+      "created_at": "2026-08-23T15:02:07.040554"
+    },
+    "車/汽車": {
+      "group": "車",
+      "name": "汽車",
+      "description": "",
+      "created_at": "2026-09-12T21:58:08.416980"
+    },
+    "交通用品/紅綠燈": {
+      "group": "交通用品",
+      "name": "紅綠燈",
+      "description": "",
+      "created_at": "2026-08-23T10:47:25.597545"
+    },
+    "交通用品/告示牌": {
+      "group": "交通用品",
+      "name": "告示牌",
+      "description": "",
+      "created_at": "2026-08-23T10:47:03.652803"
+    },
+    "日常用品/桌子": {
+      "group": "日常用品",
+      "name": "桌子",
+      "description": "",
+      "created_at": "2026-08-23T13:31:53.948104"
+    },
+    "日常用品/背包": {
+      "group": "日常用品",
+      "name": "背包",
+      "description": "",
+      "created_at": "2026-08-23T14:56:57.983068"
+    },
+    "電子器材/平板": {
+      "group": "電子器材",
+      "name": "平板",
+      "description": "",
+      "created_at": "2026-08-23T14:59:49.312295"
+    },
+    "電子器材/手錶": {
+      "group": "電子器材",
+      "name": "手錶",
+      "description": "",
+      "created_at": "2026-08-23T15:00:29.792282"
+    },
+    "金錢/發票": {
+      "group": "金錢",
+      "name": "發票",
+      "description": "",
+      "created_at": "2026-08-23T15:09:20.629414"
+    },
+    "水果/瓶子": {
+      "group": "水果",
+      "name": "瓶子",
+      "description": "",
+      "created_at": "2026-08-23T15:13:25.656600"
+    },
+    "運動用品/鞋子": {
+      "group": "運動用品",
+      "name": "鞋子",
+      "description": "",
+      "created_at": "2026-08-23T15:41:38.352266"
+    },
+    "家中物品/洗衣機": {
+      "group": "家中物品",
+      "name": "洗衣機",
+      "description": "",
+      "created_at": "2026-09-12T15:47:12.292087"
+    },
+    "車/機車": {
+      "group": "車",
+      "name": "機車",
+      "description": "",
+      "created_at": "2026-09-12T21:13:47.523218"
+    }
+  },
+  "history": [
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (1).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:44.325630"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (2).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:44.393149"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (3).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:44.449335"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (4).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:44.499059"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (5).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.555700"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (1)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.569642"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (6).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.605468"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (2)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.607806"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (7).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.652855"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (3)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.653858"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (8).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.695635"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (4)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.696648"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (9).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.741241"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (5)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.742130"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (10).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.781688"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (6)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.782625"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (7)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.811910"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (8)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.834879"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (9)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.857810"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (10)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.880326"
+    },
+    {
+      "action": "add_image",
+      "category": "墊片",
+      "filename": "1 (1).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:49:43.962343"
+    },
+    {
+      "action": "add_image",
+      "category": "墊片",
+      "filename": "1 (2).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:49:43.990287"
+    },
+    {
+      "action": "add_image",
+      "category": "墊片",
+      "filename": "1 (3).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:49:44.013608"
+    },
+    {
+      "action": "add_image",
+      "category": "墊片",
+      "filename": "1 (4).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:49:44.037200"
+    },
+    {
+      "action": "add_image",
+      "category": "墊片",
+      "filename": "1 (5).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:49:44.059098"
+    },
+    {
+      "action": "add_image",
+      "category": "墊片",
+      "filename": "1 (6).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:49:44.082186"
+    },
+    {
+      "action": "add_image",
+      "category": "墊片",
+      "filename": "1 (7).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:49:44.105456"
+    },
+    {
+      "action": "add_image",
+      "category": "墊片",
+      "filename": "1 (8).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:49:44.127701"
+    },
+    {
+      "action": "add_image",
+      "category": "墊片",
+      "filename": "1.webp",
+      "source": "manual_save",
+      "time": "2026-06-27T14:51:28.513339"
+    },
+    {
+      "action": "add_image",
+      "category": "彈簧",
+      "filename": "1 (6).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:09.871647"
+    },
+    {
+      "action": "add_image",
+      "category": "彈簧",
+      "filename": "1 (7).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:09.895698"
+    },
+    {
+      "action": "add_image",
+      "category": "彈簧",
+      "filename": "1 (8).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:09.920342"
+    },
+    {
+      "action": "add_image",
+      "category": "彈簧",
+      "filename": "1 (9).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:09.943704"
+    },
+    {
+      "action": "add_image",
+      "category": "彈簧",
+      "filename": "1 (10).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:09.969327"
+    },
+    {
+      "action": "add_image",
+      "category": "彈簧",
+      "filename": "1 (11).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:09.996705"
+    },
+    {
+      "action": "add_image",
+      "category": "彈簧",
+      "filename": "1 (1).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:10.020012"
+    },
+    {
+      "action": "add_image",
+      "category": "彈簧",
+      "filename": "1 (2).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:10.043195"
+    },
+    {
+      "action": "add_image",
+      "category": "彈簧",
+      "filename": "1 (3).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:10.066240"
+    },
+    {
+      "action": "add_image",
+      "category": "彈簧",
+      "filename": "1 (4).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:10.089914"
+    },
+    {
+      "action": "add_image",
+      "category": "彈簧",
+      "filename": "1 (5).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:10.114568"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (6).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:50.087946"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (7).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:50.110215"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (8).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:50.136993"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (1).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:50.165312"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (2).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:50.191485"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (3).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:50.221128"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (4).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:50.248104"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (5).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:50.271216"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (1)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:22.789021"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (2)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:22.813110"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (3)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:22.840814"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (4)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:22.866963"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (5)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:22.896455"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (6)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:22.923148"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (7)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:22.950198"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (8)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:22.974361"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (9).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:22.999380"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (10).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:23.030813"
+    },
+    {
+      "action": "add_image",
+      "category": "螺絲",
+      "filename": "1 (1).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:55.015991"
+    },
+    {
+      "action": "add_image",
+      "category": "螺絲",
+      "filename": "1 (1).png",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:55.028313"
+    },
+    {
+      "action": "add_image",
+      "category": "螺絲",
+      "filename": "1 (2).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:55.047436"
+    },
+    {
+      "action": "add_image",
+      "category": "螺絲",
+      "filename": "1 (3).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:55.074488"
+    },
+    {
+      "action": "add_image",
+      "category": "螺絲",
+      "filename": "1 (4).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:55.102642"
+    },
+    {
+      "action": "add_image",
+      "category": "螺絲",
+      "filename": "1 (5).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:55.128632"
+    },
+    {
+      "action": "add_image",
+      "category": "螺絲",
+      "filename": "1 (6).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:55.153470"
+    },
+    {
+      "action": "add_image",
+      "category": "螺絲",
+      "filename": "1 (7).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:55.176360"
+    },
+    {
+      "action": "add_image",
+      "category": "螺絲",
+      "filename": "1 (9).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:55.198943"
+    },
+    {
+      "action": "add_image",
+      "category": "螺絲",
+      "filename": "1 (8).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:55.225728"
+    },
+    {
+      "action": "add_image",
+      "category": "墊片",
+      "filename": "1_1.webp",
+      "source": "manual_save",
+      "time": "2026-06-27T14:58:45.181592"
+    },
+    {
+      "action": "add_image",
+      "category": "墊片",
+      "filename": "1_2.webp",
+      "source": "manual_save",
+      "time": "2026-06-27T14:58:56.474526"
+    },
+    {
+      "action": "add_image",
+      "category": "墊片",
+      "filename": "20260627_145909.webp",
+      "source": "manual_save",
+      "time": "2026-06-27T14:59:09.115740"
+    },
+    {
+      "action": "rename_group",
+      "old_name": "水果",
+      "new_name": "鮮果",
+      "time": "2026-06-27T15:28:49.403602"
+    },
+    {
+      "action": "rename_group",
+      "old_name": "五金",
+      "new_name": "1",
+      "time": "2026-06-27T15:30:29.445177"
+    },
+    {
+      "action": "rename_group",
+      "old_name": "其他",
+      "new_name": "五金",
+      "time": "2026-06-27T15:30:43.297904"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "墊片",
+      "label": "五金/墊片",
+      "filename": "20260627_153147.webp",
+      "source": "manual_save",
+      "time": "2026-06-27T15:31:47.018208"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "香蕉",
+      "label": "水果/香蕉",
+      "filename": "images.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:33:22.830811"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "香蕉",
+      "label": "水果/香蕉",
+      "filename": "images_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:35:22.615930"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "香蕉",
+      "label": "水果/香蕉",
+      "filename": "images_2.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:35:44.567027"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "香蕉",
+      "label": "水果/香蕉",
+      "filename": "images_3.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:35:56.542701"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "墊片",
+      "label": "五金/墊片",
+      "filename": "1 (1)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:36:58.206501"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "墊片",
+      "label": "五金/墊片",
+      "filename": "1 (2)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:36:58.270781"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "墊片",
+      "label": "五金/墊片",
+      "filename": "1 (3)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:36:58.338016"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "墊片",
+      "label": "五金/墊片",
+      "filename": "1 (4)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:36:58.437673"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "墊片",
+      "label": "五金/墊片",
+      "filename": "1 (1)_2.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:37:00.254007"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "香蕉",
+      "label": "水果/香蕉",
+      "filename": "1 (4).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:38:36.722802"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "香蕉",
+      "label": "水果/香蕉",
+      "filename": "1 (1).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:38:36.756832"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "香蕉",
+      "label": "水果/香蕉",
+      "filename": "1 (1)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:38:36.797201"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "香蕉",
+      "label": "水果/香蕉",
+      "filename": "1 (2).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:38:36.839206"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "香蕉",
+      "label": "水果/香蕉",
+      "filename": "1 (3).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:38:36.875800"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "草莓",
+      "label": "水果/草莓",
+      "filename": "1 (8).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:40:11.476456"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "草莓",
+      "label": "水果/草莓",
+      "filename": "1 (9).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:40:11.516443"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "草莓",
+      "label": "水果/草莓",
+      "filename": "1 (10).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:40:11.554377"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "草莓",
+      "label": "水果/草莓",
+      "filename": "1 (11).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:40:11.594248"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "草莓",
+      "label": "水果/草莓",
+      "filename": "1 (12).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:40:11.634449"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "草莓",
+      "label": "水果/草莓",
+      "filename": "1 (5).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:40:11.668417"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "草莓",
+      "label": "水果/草莓",
+      "filename": "1 (6).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:40:11.703550"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "草莓",
+      "label": "水果/草莓",
+      "filename": "1 (7).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:40:11.746610"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "橘子",
+      "label": "水果/橘子",
+      "filename": "1 (17).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:41:24.826859"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "橘子",
+      "label": "水果/橘子",
+      "filename": "1 (18).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:41:24.872784"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "橘子",
+      "label": "水果/橘子",
+      "filename": "1 (19).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:41:24.920992"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "橘子",
+      "label": "水果/橘子",
+      "filename": "1 (20).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:41:24.957098"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "橘子",
+      "label": "水果/橘子",
+      "filename": "1 (13).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:41:25.006962"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "橘子",
+      "label": "水果/橘子",
+      "filename": "1 (14).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:41:25.053582"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "橘子",
+      "label": "水果/橘子",
+      "filename": "1 (15).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:41:25.112865"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "橘子",
+      "label": "水果/橘子",
+      "filename": "1 (16).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:41:25.172185"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "橘子",
+      "label": "水果/橘子",
+      "filename": "20260627_154319.jpg",
+      "source": "manual_save",
+      "time": "2026-06-27T15:43:19.177645"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "橘子",
+      "label": "水果/橘子",
+      "filename": "華司.jpg",
+      "source": "manual_save",
+      "time": "2026-06-27T15:43:43.131977"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "橘子",
+      "label": "水果/橘子",
+      "filename": "20260627_154354.jpg",
+      "source": "manual_save",
+      "time": "2026-06-27T15:43:54.831843"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "葡萄",
+      "label": "水果/葡萄",
+      "filename": "1 (24).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:45:38.648874"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "葡萄",
+      "label": "水果/葡萄",
+      "filename": "1 (25).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:45:38.698476"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "葡萄",
+      "label": "水果/葡萄",
+      "filename": "1 (26).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:45:38.742872"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "葡萄",
+      "label": "水果/葡萄",
+      "filename": "1 (27).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:45:38.784862"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "葡萄",
+      "label": "水果/葡萄",
+      "filename": "1 (28).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:45:38.824495"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "葡萄",
+      "label": "水果/葡萄",
+      "filename": "1 (29).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:45:38.869162"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "葡萄",
+      "label": "水果/葡萄",
+      "filename": "1 (30).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:45:38.907074"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "葡萄",
+      "label": "水果/葡萄",
+      "filename": "1 (31).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:45:38.948572"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "葡萄",
+      "label": "水果/葡萄",
+      "filename": "1 (32).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:45:38.992624"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "葡萄",
+      "label": "水果/葡萄",
+      "filename": "1 (33).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:45:39.053167"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "葡萄",
+      "label": "水果/葡萄",
+      "filename": "1 (21).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:45:39.098217"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "葡萄",
+      "label": "水果/葡萄",
+      "filename": "1 (22).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:45:39.151342"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "葡萄",
+      "label": "水果/葡萄",
+      "filename": "1 (23).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:45:39.189604"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "橘子",
+      "label": "水果/橘子",
+      "filename": "20260627_154812.jpg",
+      "source": "manual_save",
+      "time": "2026-06-27T15:48:12.673879"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "蘋果",
+      "label": "水果/蘋果",
+      "filename": "images.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:49:50.152104"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "蘋果",
+      "label": "水果/蘋果",
+      "filename": "images (7).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:49:50.195391"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "蘋果",
+      "label": "水果/蘋果",
+      "filename": "images (6).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:49:50.235553"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "蘋果",
+      "label": "水果/蘋果",
+      "filename": "images (5).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:49:50.280341"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "蘋果",
+      "label": "水果/蘋果",
+      "filename": "images (4).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:49:50.337590"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "蘋果",
+      "label": "水果/蘋果",
+      "filename": "images (3).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:49:50.386562"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "蘋果",
+      "label": "水果/蘋果",
+      "filename": "images (2).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:49:50.422157"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "蘋果",
+      "label": "水果/蘋果",
+      "filename": "images (1).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:49:50.461561"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "西瓜",
+      "label": "水果/西瓜",
+      "filename": "1 (38).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:50:47.360112"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "西瓜",
+      "label": "水果/西瓜",
+      "filename": "1 (39).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:50:47.404800"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "西瓜",
+      "label": "水果/西瓜",
+      "filename": "1 (40).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:50:47.452697"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "西瓜",
+      "label": "水果/西瓜",
+      "filename": "1 (41).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:50:47.503766"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "西瓜",
+      "label": "水果/西瓜",
+      "filename": "1 (34).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:50:47.549859"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "西瓜",
+      "label": "水果/西瓜",
+      "filename": "1 (35).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:50:47.622301"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "西瓜",
+      "label": "水果/西瓜",
+      "filename": "1 (36).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:50:47.676462"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "西瓜",
+      "label": "水果/西瓜",
+      "filename": "1 (37).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:50:47.714750"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "葡萄",
+      "label": "水果/葡萄",
+      "filename": "1.jpg",
+      "source": "manual_save",
+      "time": "2026-06-27T15:53:04.640783"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "芒果",
+      "label": "水果/芒果",
+      "filename": "1.webp",
+      "source": "manual_save",
+      "time": "2026-07-25T10:46:41.720959"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "葡萄",
+      "label": "水果/葡萄",
+      "filename": "葡萄.jpg",
+      "source": "manual_save",
+      "time": "2026-07-25T11:26:23.890139"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "橘子",
+      "label": "水果/橘子",
+      "filename": "橘子.jpg",
+      "source": "manual_save",
+      "time": "2026-07-25T11:26:33.659726"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "芒果",
+      "label": "水果/芒果",
+      "filename": "芒果.webp",
+      "source": "manual_save",
+      "time": "2026-07-25T22:33:09.867467"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "燈",
+      "label": "五金/燈",
+      "filename": "燈.jpg",
+      "source": "manual_save",
+      "time": "2026-07-26T11:43:48.218679"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "外套",
+      "label": "日常用品/外套",
+      "filename": "1.jpg",
+      "source": "manual_save",
+      "time": "2026-07-26T11:45:43.093906"
+    },
+    {
+      "action": "add_image",
+      "group": "3c",
+      "category": "手錶",
+      "label": "3c/手錶",
+      "filename": "20260726_115118.jpg",
+      "source": "manual_save",
+      "time": "2026-07-26T11:51:18.240900"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "手機",
+      "label": "日常用品/手機",
+      "filename": "20260726_120125.jpg",
+      "source": "manual_save",
+      "time": "2026-07-26T12:01:25.907013"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "手機",
+      "label": "日常用品/手機",
+      "filename": "20260726_120125_1.jpg",
+      "source": "manual_save",
+      "time": "2026-07-26T12:01:26.036333"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "電視",
+      "label": "電子器材/電視",
+      "filename": "1000013333.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:28:24.457753"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "電視",
+      "label": "電子器材/電視",
+      "filename": "1000013332.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:28:24.498897"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "電視",
+      "label": "電子器材/電視",
+      "filename": "1000013331.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:28:24.550696"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "電視",
+      "label": "電子器材/電視",
+      "filename": "1000013330.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:28:24.592830"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "電視",
+      "label": "電子器材/電視",
+      "filename": "1000013333_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:28:25.662049"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "電視",
+      "label": "電子器材/電視",
+      "filename": "1000013332_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:28:25.707275"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "電視",
+      "label": "電子器材/電視",
+      "filename": "1000013331_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:28:25.751890"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "電視",
+      "label": "電子器材/電視",
+      "filename": "1000013330_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:28:25.806850"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "電視",
+      "label": "電子器材/電視",
+      "filename": "1000013336.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:29:46.126646"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "電視",
+      "label": "電子器材/電視",
+      "filename": "1000013335.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:29:46.177887"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "電視",
+      "label": "電子器材/電視",
+      "filename": "1000013337.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:29:46.220274"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "電視",
+      "label": "電子器材/電視",
+      "filename": "1000013334.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:29:46.265490"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "上機盒",
+      "label": "電子器材/上機盒",
+      "filename": "1000013340.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:33:10.403402"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "上機盒",
+      "label": "電子器材/上機盒",
+      "filename": "1000013339.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:33:10.445829"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "上機盒",
+      "label": "電子器材/上機盒",
+      "filename": "1000013338.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:33:10.509450"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "書",
+      "label": "日常用品/書",
+      "filename": "1000013342.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:35:01.433113"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "書",
+      "label": "日常用品/書",
+      "filename": "1000013343.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:35:01.470643"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "書",
+      "label": "日常用品/書",
+      "filename": "1000013341.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:35:01.506954"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "書",
+      "label": "日常用品/書",
+      "filename": "1000013342_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:35:13.599450"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "書",
+      "label": "日常用品/書",
+      "filename": "1000013343_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:35:13.641853"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "書",
+      "label": "日常用品/書",
+      "filename": "1000013341_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:35:13.678336"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "書",
+      "label": "日常用品/書",
+      "filename": "1000013342_2.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:35:14.577583"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "書",
+      "label": "日常用品/書",
+      "filename": "1000013343_2.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:35:14.617074"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "書",
+      "label": "日常用品/書",
+      "filename": "1000013341_2.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:35:14.652686"
+    },
+    {
+      "action": "add_image",
+      "group": "3c",
+      "category": "鍵盤",
+      "label": "3c/鍵盤",
+      "filename": "1000013351.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:36:57.752055"
+    },
+    {
+      "action": "add_image",
+      "group": "3c",
+      "category": "鍵盤",
+      "label": "3c/鍵盤",
+      "filename": "1000013350.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:36:57.795686"
+    },
+    {
+      "action": "add_image",
+      "group": "3c",
+      "category": "鍵盤",
+      "label": "3c/鍵盤",
+      "filename": "1000013349.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:36:57.835206"
+    },
+    {
+      "action": "add_image",
+      "group": "3c",
+      "category": "鍵盤",
+      "label": "3c/鍵盤",
+      "filename": "1000013347.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:36:57.877619"
+    },
+    {
+      "action": "add_image",
+      "group": "3c",
+      "category": "鍵盤",
+      "label": "3c/鍵盤",
+      "filename": "1000013346.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:36:57.924704"
+    },
+    {
+      "action": "add_image",
+      "group": "3c",
+      "category": "鍵盤",
+      "label": "3c/鍵盤",
+      "filename": "1000013348.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:36:57.965071"
+    },
+    {
+      "action": "add_image",
+      "group": "3c",
+      "category": "鍵盤",
+      "label": "3c/鍵盤",
+      "filename": "1000013345.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:36:58.004866"
+    },
+    {
+      "action": "add_image",
+      "group": "3c",
+      "category": "鍵盤",
+      "label": "3c/鍵盤",
+      "filename": "1000013344.jpg",
+      "source": "training_upload",
+      "time": "2026-08-06T11:36:58.040795"
+    },
+    {
+      "action": "add_image",
+      "group": "3c",
+      "category": "鍵盤",
+      "label": "3c/鍵盤",
+      "filename": "鍵盤.jpg",
+      "source": "manual_save",
+      "time": "2026-08-06T11:39:17.692890"
+    },
+    {
+      "action": "add_image",
+      "group": "3c",
+      "category": "鍵盤",
+      "label": "3c/鍵盤",
+      "filename": "1.jpg",
+      "source": "manual_save",
+      "time": "2026-08-06T11:42:16.391733"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "燈",
+      "label": "五金/燈",
+      "filename": "燈_1.jpg",
+      "source": "manual_save",
+      "time": "2026-08-07T19:43:48.606805"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "外套",
+      "label": "日常用品/外套",
+      "filename": "1_1.jpg",
+      "source": "manual_save",
+      "time": "2026-08-07T19:47:16.252875"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "書",
+      "label": "日常用品/書",
+      "filename": "20260807_194808.jpg",
+      "source": "manual_save",
+      "time": "2026-08-07T19:48:08.321198"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "書本",
+      "label": "日常用品/書本",
+      "filename": "書本.jpg",
+      "source": "manual_save",
+      "time": "2026-08-07T19:48:53.700570"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "起子",
+      "label": "五金/起子",
+      "filename": "起子.jpg",
+      "source": "manual_save",
+      "time": "2026-08-07T19:54:53.490872"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "相機",
+      "label": "電子器材/相機",
+      "filename": "1.jpg",
+      "source": "manual_save",
+      "time": "2026-08-07T20:00:46.099545"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "相機",
+      "label": "電子器材/相機",
+      "filename": "20260813_131004.jpg",
+      "source": "manual_save",
+      "time": "2026-08-13T13:10:04.170129"
+    },
+    {
+      "action": "add_image",
+      "group": "文具",
+      "category": "自動鉛筆",
+      "label": "文具/自動鉛筆",
+      "filename": "1000014032.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:38:10.497528"
+    },
+    {
+      "action": "add_image",
+      "group": "文具",
+      "category": "自動鉛筆",
+      "label": "文具/自動鉛筆",
+      "filename": "1000014031.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:38:10.538100"
+    },
+    {
+      "action": "add_image",
+      "group": "文具",
+      "category": "自動鉛筆",
+      "label": "文具/自動鉛筆",
+      "filename": "1000014030.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:38:10.576691"
+    },
+    {
+      "action": "add_image",
+      "group": "飲食用品",
+      "category": "碟子",
+      "label": "飲食用品/碟子",
+      "filename": "1000014036.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:39:52.390572"
+    },
+    {
+      "action": "add_image",
+      "group": "飲食用品",
+      "category": "碟子",
+      "label": "飲食用品/碟子",
+      "filename": "1000014035.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:39:52.434843"
+    },
+    {
+      "action": "add_image",
+      "group": "飲食用品",
+      "category": "碟子",
+      "label": "飲食用品/碟子",
+      "filename": "1000014034.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:39:52.475961"
+    },
+    {
+      "action": "add_image",
+      "group": "飲食用品",
+      "category": "碟子",
+      "label": "飲食用品/碟子",
+      "filename": "1000014033.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:39:52.519311"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "滑鼠",
+      "label": "電子器材/滑鼠",
+      "filename": "1000014041.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:40:51.921189"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "滑鼠",
+      "label": "電子器材/滑鼠",
+      "filename": "1000014040.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:40:51.966321"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "滑鼠",
+      "label": "電子器材/滑鼠",
+      "filename": "1000014039.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:40:52.024185"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "滑鼠",
+      "label": "電子器材/滑鼠",
+      "filename": "1000014038.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:40:52.077753"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "滑鼠",
+      "label": "電子器材/滑鼠",
+      "filename": "1000014037.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:40:52.134496"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "滑鼠",
+      "label": "電子器材/滑鼠",
+      "filename": "1000014036.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:40:52.184031"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "螢幕",
+      "label": "電子器材/螢幕",
+      "filename": "1000014046.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:41:48.748917"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "螢幕",
+      "label": "電子器材/螢幕",
+      "filename": "1000014045.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:41:48.797997"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "螢幕",
+      "label": "電子器材/螢幕",
+      "filename": "1000014044.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:41:48.849701"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "螢幕",
+      "label": "電子器材/螢幕",
+      "filename": "1000014043.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:41:48.904605"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "螢幕",
+      "label": "電子器材/螢幕",
+      "filename": "1000014042.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:41:48.957992"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "冷氣",
+      "label": "日常用品/冷氣",
+      "filename": "1000014049.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:43:08.076752"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "冷氣",
+      "label": "日常用品/冷氣",
+      "filename": "1000014048.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:43:08.115923"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "冷氣",
+      "label": "日常用品/冷氣",
+      "filename": "1000014047.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:43:08.157888"
+    },
+    {
+      "action": "rename_group",
+      "old_name": "家中我物品",
+      "new_name": "家中物品",
+      "time": "2026-08-14T12:43:57.341666"
+    },
+    {
+      "action": "add_image",
+      "group": "家中物品",
+      "category": "布簾",
+      "label": "家中物品/布簾",
+      "filename": "1000014051.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:44:39.222428"
+    },
+    {
+      "action": "add_image",
+      "group": "家中物品",
+      "category": "布簾",
+      "label": "家中物品/布簾",
+      "filename": "1000014052.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:44:39.324647"
+    },
+    {
+      "action": "add_image",
+      "group": "家中物品",
+      "category": "布簾",
+      "label": "家中物品/布簾",
+      "filename": "1000014050.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:44:39.384400"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "耳機",
+      "label": "電子器材/耳機",
+      "filename": "1000014055.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:45:32.419217"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "耳機",
+      "label": "電子器材/耳機",
+      "filename": "1000014054.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:45:32.465805"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "耳機",
+      "label": "電子器材/耳機",
+      "filename": "1000014053.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:45:32.510426"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "鍵盤",
+      "label": "電子器材/鍵盤",
+      "filename": "1000014059.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:51:19.618390"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "鍵盤",
+      "label": "電子器材/鍵盤",
+      "filename": "1000014058.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:51:19.658466"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "鍵盤",
+      "label": "電子器材/鍵盤",
+      "filename": "1000014057.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:51:19.698536"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "鍵盤",
+      "label": "電子器材/鍵盤",
+      "filename": "1000014056.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:51:19.757998"
+    },
+    {
+      "action": "add_image",
+      "group": "包裝",
+      "category": "盒子",
+      "label": "包裝/盒子",
+      "filename": "1000014064.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:53:06.126611"
+    },
+    {
+      "action": "add_image",
+      "group": "包裝",
+      "category": "盒子",
+      "label": "包裝/盒子",
+      "filename": "1000014063.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:53:06.163919"
+    },
+    {
+      "action": "add_image",
+      "group": "包裝",
+      "category": "盒子",
+      "label": "包裝/盒子",
+      "filename": "1000014062.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:53:06.202109"
+    },
+    {
+      "action": "add_image",
+      "group": "包裝",
+      "category": "盒子",
+      "label": "包裝/盒子",
+      "filename": "1000014061.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:53:06.508727"
+    },
+    {
+      "action": "add_image",
+      "group": "包裝",
+      "category": "盒子",
+      "label": "包裝/盒子",
+      "filename": "1000014060.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:53:06.546624"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "電子書",
+      "label": "電子器材/電子書",
+      "filename": "1000014067.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:54:11.017738"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "電子書",
+      "label": "電子器材/電子書",
+      "filename": "1000014066.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:54:11.060901"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "電子書",
+      "label": "電子器材/電子書",
+      "filename": "1000014065.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:54:11.100526"
+    },
+    {
+      "action": "add_image",
+      "group": "飲食用品",
+      "category": "碗",
+      "label": "飲食用品/碗",
+      "filename": "1000014071.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:55:31.744610"
+    },
+    {
+      "action": "add_image",
+      "group": "飲食用品",
+      "category": "碗",
+      "label": "飲食用品/碗",
+      "filename": "1000014070.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:55:31.783302"
+    },
+    {
+      "action": "add_image",
+      "group": "飲食用品",
+      "category": "碗",
+      "label": "飲食用品/碗",
+      "filename": "1000014069.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:55:31.827030"
+    },
+    {
+      "action": "add_image",
+      "group": "飲食用品",
+      "category": "碗",
+      "label": "飲食用品/碗",
+      "filename": "1000014068.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:55:31.867964"
+    },
+    {
+      "action": "add_image",
+      "group": "飲食用品",
+      "category": "筷子",
+      "label": "飲食用品/筷子",
+      "filename": "1000014072.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:56:35.742319"
+    },
+    {
+      "action": "add_image",
+      "group": "飲食用品",
+      "category": "筷子",
+      "label": "飲食用品/筷子",
+      "filename": "1000014073.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:56:35.783802"
+    },
+    {
+      "action": "add_image",
+      "group": "飲食用品",
+      "category": "筷子",
+      "label": "飲食用品/筷子",
+      "filename": "1000014074.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:56:35.823151"
+    },
+    {
+      "action": "add_image",
+      "group": "飲食用品",
+      "category": "叉子",
+      "label": "飲食用品/叉子",
+      "filename": "1000014075.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:57:04.700112"
+    },
+    {
+      "action": "add_image",
+      "group": "飲食用品",
+      "category": "叉子",
+      "label": "飲食用品/叉子",
+      "filename": "1000014076.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:57:04.740361"
+    },
+    {
+      "action": "add_image",
+      "group": "飲食用品",
+      "category": "叉子",
+      "label": "飲食用品/叉子",
+      "filename": "1000014077.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:57:04.780003"
+    },
+    {
+      "action": "add_image",
+      "group": "飲食用品",
+      "category": "湯匙",
+      "label": "飲食用品/湯匙",
+      "filename": "1000014080.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:57:27.804170"
+    },
+    {
+      "action": "add_image",
+      "group": "飲食用品",
+      "category": "湯匙",
+      "label": "飲食用品/湯匙",
+      "filename": "1000014079.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:57:27.848340"
+    },
+    {
+      "action": "add_image",
+      "group": "飲食用品",
+      "category": "湯匙",
+      "label": "飲食用品/湯匙",
+      "filename": "1000014078.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:57:27.886930"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "電腦",
+      "label": "電子器材/電腦",
+      "filename": "1000014086.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:59:00.383637"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "電腦",
+      "label": "電子器材/電腦",
+      "filename": "1000014085.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:59:00.426310"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "電腦",
+      "label": "電子器材/電腦",
+      "filename": "1000014084.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:59:00.466571"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "電腦",
+      "label": "電子器材/電腦",
+      "filename": "1000014083.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:59:00.505679"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "電腦",
+      "label": "電子器材/電腦",
+      "filename": "1000014082.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:59:00.543444"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "電腦",
+      "label": "電子器材/電腦",
+      "filename": "1000014081.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T12:59:00.584242"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "磁碟",
+      "label": "五金/磁碟",
+      "filename": "1000014096.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:00:33.225139"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "磁碟",
+      "label": "五金/磁碟",
+      "filename": "1000014095.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:00:33.282346"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "磁碟",
+      "label": "五金/磁碟",
+      "filename": "1000014094.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:00:33.323228"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "磁碟",
+      "label": "五金/磁碟",
+      "filename": "1000014093.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:00:33.367438"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "磁碟",
+      "label": "五金/磁碟",
+      "filename": "1000014092.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:00:33.406212"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "磁碟",
+      "label": "五金/磁碟",
+      "filename": "1000014091.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:00:33.445943"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "磁碟",
+      "label": "五金/磁碟",
+      "filename": "1000014089.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:00:33.484963"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "磁碟",
+      "label": "五金/磁碟",
+      "filename": "1000014088.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:00:33.524012"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "磁碟",
+      "label": "五金/磁碟",
+      "filename": "1000014087.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:00:33.562204"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "眼鏡",
+      "label": "日常用品/眼鏡",
+      "filename": "1000014099.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:02:02.216653"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "眼鏡",
+      "label": "日常用品/眼鏡",
+      "filename": "1000014098.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:02:02.262683"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "眼鏡",
+      "label": "日常用品/眼鏡",
+      "filename": "1000014097.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:02:02.317064"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "眼鏡",
+      "label": "日常用品/眼鏡",
+      "filename": "1000014099_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:02:02.468834"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "眼鏡",
+      "label": "日常用品/眼鏡",
+      "filename": "1000014098_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:02:02.508850"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "眼鏡",
+      "label": "日常用品/眼鏡",
+      "filename": "1000014097_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:02:02.548729"
+    },
+    {
+      "action": "delete_image",
+      "group": "日常用品",
+      "category": "書",
+      "label": "日常用品/書",
+      "filename": "20260807_194808.jpg",
+      "time": "2026-08-14T13:03:15.037064"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "手機",
+      "label": "日常用品/手機",
+      "filename": "1000014107.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:05:08.876408"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "手機",
+      "label": "日常用品/手機",
+      "filename": "1000014106.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:05:08.917354"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "手機",
+      "label": "日常用品/手機",
+      "filename": "1000014105.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:05:08.960421"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "手機",
+      "label": "日常用品/手機",
+      "filename": "1000014104.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:05:09.001873"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "手機",
+      "label": "日常用品/手機",
+      "filename": "1000014103.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:05:09.043382"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "手機",
+      "label": "日常用品/手機",
+      "filename": "1000014102.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:05:09.085897"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "手機",
+      "label": "日常用品/手機",
+      "filename": "1000014101.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:05:09.129000"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "手機",
+      "label": "日常用品/手機",
+      "filename": "1000014100.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:05:09.169054"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "手機",
+      "label": "日常用品/手機",
+      "filename": "1000014107_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:05:09.676986"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "手機",
+      "label": "日常用品/手機",
+      "filename": "1000014106_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:05:09.718392"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "手機",
+      "label": "日常用品/手機",
+      "filename": "1000014105_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:05:09.758613"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "手機",
+      "label": "日常用品/手機",
+      "filename": "1000014104_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:05:09.799995"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "手機",
+      "label": "日常用品/手機",
+      "filename": "1000014103_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:05:09.839496"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "手機",
+      "label": "日常用品/手機",
+      "filename": "1000014102_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:05:09.881101"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "手機",
+      "label": "日常用品/手機",
+      "filename": "1000014101_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:05:09.925823"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "手機",
+      "label": "日常用品/手機",
+      "filename": "1000014100_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:05:09.967897"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "拖鞋",
+      "label": "日常用品/拖鞋",
+      "filename": "1000014113.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:06:37.412474"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "拖鞋",
+      "label": "日常用品/拖鞋",
+      "filename": "1000014112.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:06:37.457325"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "拖鞋",
+      "label": "日常用品/拖鞋",
+      "filename": "1000014111.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:06:37.497902"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "拖鞋",
+      "label": "日常用品/拖鞋",
+      "filename": "1000014110.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:06:37.541189"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "拖鞋",
+      "label": "日常用品/拖鞋",
+      "filename": "1000014108.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:06:37.582483"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "拖鞋",
+      "label": "日常用品/拖鞋",
+      "filename": "1000014109.jpg",
+      "source": "training_upload",
+      "time": "2026-08-14T13:06:37.623861"
+    },
+    {
+      "action": "add_image",
+      "group": "運動用品",
+      "category": "電動腳踏車",
+      "label": "運動用品/電動腳踏車",
+      "filename": "IMG_20260822_143341.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:01:04.481804"
+    },
+    {
+      "action": "add_image",
+      "group": "運動用品",
+      "category": "電動腳踏車",
+      "label": "運動用品/電動腳踏車",
+      "filename": "IMG_20260822_143348.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:01:04.532635"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "袋子",
+      "label": "日常用品/袋子",
+      "filename": "IMG_20260822_143519.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:01:29.546854"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "袋子",
+      "label": "日常用品/袋子",
+      "filename": "IMG_20260822_143521.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:01:29.595354"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "袋子",
+      "label": "日常用品/袋子",
+      "filename": "IMG_20260822_143522.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:01:29.645093"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "袋子",
+      "label": "日常用品/袋子",
+      "filename": "IMG_20260822_143523.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:01:29.692606"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "袋子",
+      "label": "日常用品/袋子",
+      "filename": "IMG_20260822_143523_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:01:29.739573"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "袋子",
+      "label": "日常用品/袋子",
+      "filename": "IMG_20260822_143517.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:01:29.787757"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "膠帶",
+      "label": "日常用品/膠帶",
+      "filename": "1000014916.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:07:00.283268"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "膠帶",
+      "label": "日常用品/膠帶",
+      "filename": "1000014915.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:07:00.331208"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "膠帶",
+      "label": "日常用品/膠帶",
+      "filename": "1000014914.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:07:00.382784"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "膠帶",
+      "label": "日常用品/膠帶",
+      "filename": "1000014913.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:07:00.428835"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "膠帶",
+      "label": "日常用品/膠帶",
+      "filename": "1000014912.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:07:00.489485"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "膠帶",
+      "label": "日常用品/膠帶",
+      "filename": "1000014911.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:07:00.570957"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "膠帶",
+      "label": "日常用品/膠帶",
+      "filename": "1000014910.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:07:00.618374"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "膠帶",
+      "label": "日常用品/膠帶",
+      "filename": "1000014909.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:07:00.665280"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "膠帶",
+      "label": "日常用品/膠帶",
+      "filename": "1000014908.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:07:00.713353"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "膠帶",
+      "label": "日常用品/膠帶",
+      "filename": "1000014907.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:07:00.762183"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "膠帶",
+      "label": "日常用品/膠帶",
+      "filename": "1000014906.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:07:00.809482"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "膠帶",
+      "label": "日常用品/膠帶",
+      "filename": "1000014905.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:07:00.857427"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014925.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:08:20.274596"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014924.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:08:20.321982"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014923.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:08:20.371159"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014922.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:08:20.418107"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014921.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:08:20.466796"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014920.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:08:20.514258"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014919.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:08:20.564043"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014918.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:08:20.613781"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014917.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:08:20.660431"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014939.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:09:54.824846"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014941.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:09:54.873121"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014940.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:09:54.920156"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014938.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:09:54.968194"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014937.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:09:55.015355"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014936.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:09:55.065117"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014935.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:09:55.112357"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014934.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:09:55.159438"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014933.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:09:55.208648"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014932.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:09:55.255858"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014931.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:09:55.302311"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014930.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:09:55.348436"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014929.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:09:55.395798"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014928.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:09:55.443089"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014927.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:09:55.490036"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014926.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:09:55.536086"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014952.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:10:49.277378"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014951.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:10:49.339304"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014950.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:10:49.385866"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014949.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:10:49.434780"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014948.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:10:49.481078"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014947.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:10:49.528835"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014946.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:10:49.578005"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014945.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:10:49.626460"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014952_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:10:49.712386"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014943.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:10:49.729328"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014942.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:10:49.779503"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014950_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:10:49.837685"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014949_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:10:49.892279"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014948_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:10:49.939883"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014947_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:10:49.990646"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014946_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:10:50.037893"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014945_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:10:50.084258"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014944_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:10:50.128724"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014943_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:10:50.179286"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "紙鈔",
+      "label": "金錢/紙鈔",
+      "filename": "1000014942_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:10:50.227672"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "燈",
+      "label": "五金/燈",
+      "filename": "1000014993.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:17:30.128443"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "燈",
+      "label": "五金/燈",
+      "filename": "1000014992.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:17:30.176039"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "燈",
+      "label": "五金/燈",
+      "filename": "1000014991.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:17:30.224491"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "燈",
+      "label": "五金/燈",
+      "filename": "1000014990.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:17:30.271012"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "燈",
+      "label": "五金/燈",
+      "filename": "1000014989.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:17:30.317335"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "燈",
+      "label": "五金/燈",
+      "filename": "1000014988.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:17:30.365047"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "燈",
+      "label": "五金/燈",
+      "filename": "1000014987.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:17:30.434058"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "燈",
+      "label": "五金/燈",
+      "filename": "1000014986.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:17:30.486218"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "燈",
+      "label": "五金/燈",
+      "filename": "1000014985.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:17:30.536854"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "鍵盤",
+      "label": "電子器材/鍵盤",
+      "filename": "1000015000.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:19:38.950559"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "鍵盤",
+      "label": "電子器材/鍵盤",
+      "filename": "1000014999.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:19:39.002186"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "鍵盤",
+      "label": "電子器材/鍵盤",
+      "filename": "1000014998.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:19:39.049489"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "鍵盤",
+      "label": "電子器材/鍵盤",
+      "filename": "1000014997.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:19:39.097396"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "鍵盤",
+      "label": "電子器材/鍵盤",
+      "filename": "1000014996.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:19:39.146232"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "鍵盤",
+      "label": "電子器材/鍵盤",
+      "filename": "1000014995.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:19:39.195166"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "鍵盤",
+      "label": "電子器材/鍵盤",
+      "filename": "1000014994.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:19:39.241846"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "打火機",
+      "label": "五金/打火機",
+      "filename": "1000015106.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:22:34.508080"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "打火機",
+      "label": "五金/打火機",
+      "filename": "1000015105.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:22:34.558392"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "打火機",
+      "label": "五金/打火機",
+      "filename": "1000015104.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:22:34.606547"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "打火機",
+      "label": "五金/打火機",
+      "filename": "1000015103.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:22:34.658329"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "打火機",
+      "label": "五金/打火機",
+      "filename": "1000015102.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:22:34.706336"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "打火機",
+      "label": "五金/打火機",
+      "filename": "1000015101.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:22:34.756011"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "打火機",
+      "label": "五金/打火機",
+      "filename": "1000015100.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:22:34.806151"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "打火機",
+      "label": "五金/打火機",
+      "filename": "1000015099.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:22:34.854816"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "打火機",
+      "label": "五金/打火機",
+      "filename": "1000015098.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:22:34.902033"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "打火機",
+      "label": "五金/打火機",
+      "filename": "1000015097.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:22:34.950586"
+    },
+    {
+      "action": "add_image",
+      "group": "清潔用品",
+      "category": "衛生紙",
+      "label": "清潔用品/衛生紙",
+      "filename": "1000015114.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:23:30.435093"
+    },
+    {
+      "action": "add_image",
+      "group": "清潔用品",
+      "category": "衛生紙",
+      "label": "清潔用品/衛生紙",
+      "filename": "1000015113.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:23:30.483420"
+    },
+    {
+      "action": "add_image",
+      "group": "清潔用品",
+      "category": "衛生紙",
+      "label": "清潔用品/衛生紙",
+      "filename": "1000015112.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:23:30.533391"
+    },
+    {
+      "action": "add_image",
+      "group": "清潔用品",
+      "category": "衛生紙",
+      "label": "清潔用品/衛生紙",
+      "filename": "1000015111.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:23:30.584288"
+    },
+    {
+      "action": "add_image",
+      "group": "清潔用品",
+      "category": "衛生紙",
+      "label": "清潔用品/衛生紙",
+      "filename": "1000015110.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:23:30.633876"
+    },
+    {
+      "action": "add_image",
+      "group": "清潔用品",
+      "category": "衛生紙",
+      "label": "清潔用品/衛生紙",
+      "filename": "1000015109.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:23:30.684405"
+    },
+    {
+      "action": "add_image",
+      "group": "清潔用品",
+      "category": "衛生紙",
+      "label": "清潔用品/衛生紙",
+      "filename": "1000015108.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:23:30.733323"
+    },
+    {
+      "action": "add_image",
+      "group": "清潔用品",
+      "category": "衛生紙",
+      "label": "清潔用品/衛生紙",
+      "filename": "1000015107.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:23:30.783391"
+    },
+    {
+      "action": "add_image",
+      "group": "包裝",
+      "category": "盒子",
+      "label": "包裝/盒子",
+      "filename": "1000015122.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:24:19.023267"
+    },
+    {
+      "action": "add_image",
+      "group": "包裝",
+      "category": "盒子",
+      "label": "包裝/盒子",
+      "filename": "1000015121.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:24:19.076102"
+    },
+    {
+      "action": "add_image",
+      "group": "包裝",
+      "category": "盒子",
+      "label": "包裝/盒子",
+      "filename": "1000015120.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:24:19.124645"
+    },
+    {
+      "action": "add_image",
+      "group": "包裝",
+      "category": "盒子",
+      "label": "包裝/盒子",
+      "filename": "1000015119.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:24:19.172431"
+    },
+    {
+      "action": "add_image",
+      "group": "包裝",
+      "category": "盒子",
+      "label": "包裝/盒子",
+      "filename": "1000015118.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:24:19.222117"
+    },
+    {
+      "action": "add_image",
+      "group": "包裝",
+      "category": "盒子",
+      "label": "包裝/盒子",
+      "filename": "1000015117.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:24:19.270312"
+    },
+    {
+      "action": "add_image",
+      "group": "包裝",
+      "category": "盒子",
+      "label": "包裝/盒子",
+      "filename": "1000015116.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:24:19.320334"
+    },
+    {
+      "action": "add_image",
+      "group": "包裝",
+      "category": "盒子",
+      "label": "包裝/盒子",
+      "filename": "1000015115.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:24:19.369108"
+    },
+    {
+      "action": "add_image",
+      "group": "清潔用品",
+      "category": "衛生紙",
+      "label": "清潔用品/衛生紙",
+      "filename": "1000015125.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:25:02.121356"
+    },
+    {
+      "action": "add_image",
+      "group": "清潔用品",
+      "category": "衛生紙",
+      "label": "清潔用品/衛生紙",
+      "filename": "1000015124.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:25:02.174217"
+    },
+    {
+      "action": "add_image",
+      "group": "清潔用品",
+      "category": "衛生紙",
+      "label": "清潔用品/衛生紙",
+      "filename": "1000015123.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:25:02.228331"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "路由器",
+      "label": "電子器材/路由器",
+      "filename": "1000015128.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:25:43.573254"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "路由器",
+      "label": "電子器材/路由器",
+      "filename": "1000015127.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:25:43.623961"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "路由器",
+      "label": "電子器材/路由器",
+      "filename": "1000015126.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:25:43.673586"
+    },
+    {
+      "action": "add_image",
+      "group": "家中物品",
+      "category": "眼鏡盒",
+      "label": "家中物品/眼鏡盒",
+      "filename": "1000015131.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:26:47.924292"
+    },
+    {
+      "action": "add_image",
+      "group": "家中物品",
+      "category": "眼鏡盒",
+      "label": "家中物品/眼鏡盒",
+      "filename": "1000015130.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:26:47.975031"
+    },
+    {
+      "action": "add_image",
+      "group": "家中物品",
+      "category": "眼鏡盒",
+      "label": "家中物品/眼鏡盒",
+      "filename": "1000015129.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:26:48.028210"
+    },
+    {
+      "action": "add_image",
+      "group": "煮飯用品",
+      "category": "剪刀",
+      "label": "煮飯用品/剪刀",
+      "filename": "1000015135.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:27:39.325785"
+    },
+    {
+      "action": "add_image",
+      "group": "煮飯用品",
+      "category": "剪刀",
+      "label": "煮飯用品/剪刀",
+      "filename": "1000015134.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:27:39.386701"
+    },
+    {
+      "action": "add_image",
+      "group": "煮飯用品",
+      "category": "剪刀",
+      "label": "煮飯用品/剪刀",
+      "filename": "1000015133.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:27:39.441120"
+    },
+    {
+      "action": "add_image",
+      "group": "煮飯用品",
+      "category": "剪刀",
+      "label": "煮飯用品/剪刀",
+      "filename": "1000015132.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:27:39.495800"
+    },
+    {
+      "action": "add_image",
+      "group": "煮飯用品",
+      "category": "嫂子",
+      "label": "煮飯用品/嫂子",
+      "filename": "1000015138.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:28:16.476527"
+    },
+    {
+      "action": "add_image",
+      "group": "煮飯用品",
+      "category": "嫂子",
+      "label": "煮飯用品/嫂子",
+      "filename": "1000015137.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:28:16.527084"
+    },
+    {
+      "action": "add_image",
+      "group": "煮飯用品",
+      "category": "嫂子",
+      "label": "煮飯用品/嫂子",
+      "filename": "1000015136.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:28:16.577116"
+    },
+    {
+      "action": "add_image",
+      "group": "清潔用品",
+      "category": "浴巾",
+      "label": "清潔用品/浴巾",
+      "filename": "1000015150.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:28:51.265322"
+    },
+    {
+      "action": "add_image",
+      "group": "清潔用品",
+      "category": "浴巾",
+      "label": "清潔用品/浴巾",
+      "filename": "1000015149.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:28:51.316854"
+    },
+    {
+      "action": "add_image",
+      "group": "清潔用品",
+      "category": "浴巾",
+      "label": "清潔用品/浴巾",
+      "filename": "1000015148.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:28:51.372289"
+    },
+    {
+      "action": "add_image",
+      "group": "清潔用品",
+      "category": "浴巾",
+      "label": "清潔用品/浴巾",
+      "filename": "1000015147.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:28:51.424486"
+    },
+    {
+      "action": "add_image",
+      "group": "清潔用品",
+      "category": "浴巾",
+      "label": "清潔用品/浴巾",
+      "filename": "1000015146.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:28:51.476787"
+    },
+    {
+      "action": "add_image",
+      "group": "清潔用品",
+      "category": "浴巾",
+      "label": "清潔用品/浴巾",
+      "filename": "1000015145.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:28:51.531303"
+    },
+    {
+      "action": "add_image",
+      "group": "清潔用品",
+      "category": "浴巾",
+      "label": "清潔用品/浴巾",
+      "filename": "1000015144.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:28:51.583156"
+    },
+    {
+      "action": "add_image",
+      "group": "清潔用品",
+      "category": "浴巾",
+      "label": "清潔用品/浴巾",
+      "filename": "1000015143.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:28:51.635928"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "皮夾",
+      "label": "日常用品/皮夾",
+      "filename": "1000015157.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:29:34.613761"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "皮夾",
+      "label": "日常用品/皮夾",
+      "filename": "1000015156.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:29:34.667785"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "皮夾",
+      "label": "日常用品/皮夾",
+      "filename": "1000015155.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:29:34.717703"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "皮夾",
+      "label": "日常用品/皮夾",
+      "filename": "1000015154.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:29:34.771763"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "皮夾",
+      "label": "日常用品/皮夾",
+      "filename": "1000015153.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:29:34.821186"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "皮夾",
+      "label": "日常用品/皮夾",
+      "filename": "1000015152.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:29:34.873386"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "皮夾",
+      "label": "日常用品/皮夾",
+      "filename": "1000015151.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:29:34.922859"
+    },
+    {
+      "action": "add_image",
+      "group": "穿著用品",
+      "category": "衣架",
+      "label": "穿著用品/衣架",
+      "filename": "1000015168.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:31:13.167671"
+    },
+    {
+      "action": "add_image",
+      "group": "穿著用品",
+      "category": "衣架",
+      "label": "穿著用品/衣架",
+      "filename": "1000015167.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:31:13.217692"
+    },
+    {
+      "action": "add_image",
+      "group": "穿著用品",
+      "category": "衣架",
+      "label": "穿著用品/衣架",
+      "filename": "1000015166.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:31:13.273302"
+    },
+    {
+      "action": "add_image",
+      "group": "穿著用品",
+      "category": "衣架",
+      "label": "穿著用品/衣架",
+      "filename": "1000015165.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:31:13.325095"
+    },
+    {
+      "action": "add_image",
+      "group": "穿著用品",
+      "category": "衣架",
+      "label": "穿著用品/衣架",
+      "filename": "1000015164.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:31:13.375490"
+    },
+    {
+      "action": "add_image",
+      "group": "穿著用品",
+      "category": "衣架",
+      "label": "穿著用品/衣架",
+      "filename": "1000015163.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:31:13.428400"
+    },
+    {
+      "action": "add_image",
+      "group": "穿著用品",
+      "category": "衣架",
+      "label": "穿著用品/衣架",
+      "filename": "1000015162.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:31:13.483220"
+    },
+    {
+      "action": "add_image",
+      "group": "穿著用品",
+      "category": "衣架",
+      "label": "穿著用品/衣架",
+      "filename": "1000015161.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:31:13.536568"
+    },
+    {
+      "action": "add_image",
+      "group": "穿著用品",
+      "category": "衣架",
+      "label": "穿著用品/衣架",
+      "filename": "1000015160.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:31:13.591010"
+    },
+    {
+      "action": "add_image",
+      "group": "穿著用品",
+      "category": "衣架",
+      "label": "穿著用品/衣架",
+      "filename": "1000015159.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:31:13.642599"
+    },
+    {
+      "action": "add_image",
+      "group": "穿著用品",
+      "category": "衣架",
+      "label": "穿著用品/衣架",
+      "filename": "1000015158.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:31:13.696884"
+    },
+    {
+      "action": "add_image",
+      "group": "穿著用品",
+      "category": "衣架",
+      "label": "穿著用品/衣架",
+      "filename": "1000015168_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:31:13.863892"
+    },
+    {
+      "action": "add_image",
+      "group": "穿著用品",
+      "category": "衣架",
+      "label": "穿著用品/衣架",
+      "filename": "1000015167_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:31:13.918815"
+    },
+    {
+      "action": "add_image",
+      "group": "穿著用品",
+      "category": "衣架",
+      "label": "穿著用品/衣架",
+      "filename": "1000015166_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:31:13.973013"
+    },
+    {
+      "action": "add_image",
+      "group": "穿著用品",
+      "category": "衣架",
+      "label": "穿著用品/衣架",
+      "filename": "1000015165_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:31:14.026184"
+    },
+    {
+      "action": "add_image",
+      "group": "穿著用品",
+      "category": "衣架",
+      "label": "穿著用品/衣架",
+      "filename": "1000015164_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:31:14.080487"
+    },
+    {
+      "action": "add_image",
+      "group": "穿著用品",
+      "category": "衣架",
+      "label": "穿著用品/衣架",
+      "filename": "1000015163_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:31:14.134096"
+    },
+    {
+      "action": "add_image",
+      "group": "穿著用品",
+      "category": "衣架",
+      "label": "穿著用品/衣架",
+      "filename": "1000015162_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:31:14.243343"
+    },
+    {
+      "action": "add_image",
+      "group": "穿著用品",
+      "category": "衣架",
+      "label": "穿著用品/衣架",
+      "filename": "1000015161_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:31:14.296453"
+    },
+    {
+      "action": "add_image",
+      "group": "穿著用品",
+      "category": "衣架",
+      "label": "穿著用品/衣架",
+      "filename": "1000015160_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:31:14.350244"
+    },
+    {
+      "action": "add_image",
+      "group": "穿著用品",
+      "category": "衣架",
+      "label": "穿著用品/衣架",
+      "filename": "1000015159_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:31:14.404678"
+    },
+    {
+      "action": "add_image",
+      "group": "穿著用品",
+      "category": "衣架",
+      "label": "穿著用品/衣架",
+      "filename": "1000015158_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:31:14.459971"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "燈",
+      "label": "五金/燈",
+      "filename": "1000015173.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:32:07.578781"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "燈",
+      "label": "五金/燈",
+      "filename": "1000015172.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:32:07.633801"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "燈",
+      "label": "五金/燈",
+      "filename": "1000015171.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:32:07.688472"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "燈",
+      "label": "五金/燈",
+      "filename": "1000015170.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:32:07.743365"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "燈",
+      "label": "五金/燈",
+      "filename": "1000015169.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:32:07.795605"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "麥克風",
+      "label": "電子器材/麥克風",
+      "filename": "1000015179.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:34:16.399345"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "麥克風",
+      "label": "電子器材/麥克風",
+      "filename": "1000015178.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:34:16.455252"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "麥克風",
+      "label": "電子器材/麥克風",
+      "filename": "1000015177.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:34:16.509624"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "麥克風",
+      "label": "電子器材/麥克風",
+      "filename": "1000015176.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:34:16.567255"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "麥克風",
+      "label": "電子器材/麥克風",
+      "filename": "1000015175.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:34:16.621036"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "麥克風",
+      "label": "電子器材/麥克風",
+      "filename": "1000015174.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:34:16.674705"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "麥克風",
+      "label": "電子器材/麥克風",
+      "filename": "1000015179_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:34:16.736733"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "麥克風",
+      "label": "電子器材/麥克風",
+      "filename": "1000015177_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:34:16.847977"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "麥克風",
+      "label": "電子器材/麥克風",
+      "filename": "1000015176_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:34:16.906864"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "麥克風",
+      "label": "電子器材/麥克風",
+      "filename": "1000015175_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:34:16.958639"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "麥克風",
+      "label": "電子器材/麥克風",
+      "filename": "1000015174_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:34:17.012074"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "眼罩",
+      "label": "日常用品/眼罩",
+      "filename": "1000015187.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:36:04.435965"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "眼罩",
+      "label": "日常用品/眼罩",
+      "filename": "1000015186.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:36:04.496559"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "眼罩",
+      "label": "日常用品/眼罩",
+      "filename": "1000015185.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:36:04.557227"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "眼罩",
+      "label": "日常用品/眼罩",
+      "filename": "1000015184.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:36:04.612201"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "眼罩",
+      "label": "日常用品/眼罩",
+      "filename": "1000015183.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:36:04.672447"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "眼罩",
+      "label": "日常用品/眼罩",
+      "filename": "1000015182.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:36:04.729552"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "眼罩",
+      "label": "日常用品/眼罩",
+      "filename": "1000015181.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:36:04.786602"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "眼罩",
+      "label": "日常用品/眼罩",
+      "filename": "1000015180.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:36:04.853000"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "眼罩",
+      "label": "日常用品/眼罩",
+      "filename": "1000015187_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:36:05.137254"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "眼罩",
+      "label": "日常用品/眼罩",
+      "filename": "1000015186_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:36:05.195268"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "眼罩",
+      "label": "日常用品/眼罩",
+      "filename": "1000015185_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:36:05.254785"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "眼罩",
+      "label": "日常用品/眼罩",
+      "filename": "1000015184_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:36:05.312340"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "眼罩",
+      "label": "日常用品/眼罩",
+      "filename": "1000015183_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:36:05.366895"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "眼罩",
+      "label": "日常用品/眼罩",
+      "filename": "1000015182_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:36:05.479380"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "眼罩",
+      "label": "日常用品/眼罩",
+      "filename": "1000015181_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:36:05.537035"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "眼罩",
+      "label": "日常用品/眼罩",
+      "filename": "1000015180_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T19:36:05.594548"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "起子",
+      "label": "五金/起子",
+      "filename": "1000015199.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T21:59:20.310933"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "起子",
+      "label": "五金/起子",
+      "filename": "1000015198.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T21:59:20.368148"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "起子",
+      "label": "五金/起子",
+      "filename": "1000015197.jpg",
+      "source": "training_upload",
+      "time": "2026-08-22T21:59:20.421276"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "起子",
+      "label": "五金/起子",
+      "filename": "起子_1.jpg",
+      "source": "manual_save",
+      "time": "2026-08-22T22:00:08.648368"
+    },
+    {
+      "action": "add_image",
+      "group": "文具",
+      "category": "原子筆",
+      "label": "文具/原子筆",
+      "filename": "筆.jpg",
+      "source": "manual_save",
+      "time": "2026-08-22T22:00:49.116580"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "滑鼠",
+      "label": "電子器材/滑鼠",
+      "filename": "20260822_220157.jpg",
+      "source": "manual_save",
+      "time": "2026-08-22T22:01:57.998045"
+    },
+    {
+      "action": "add_image",
+      "group": "清潔用品",
+      "category": "衛生紙",
+      "label": "清潔用品/衛生紙",
+      "filename": "20260822_221939.jpg",
+      "source": "manual_save",
+      "time": "2026-08-22T22:19:39.994639"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "耳機",
+      "label": "電子器材/耳機",
+      "filename": "20260822_222600.jpg",
+      "source": "manual_save",
+      "time": "2026-08-22T22:26:00.779694"
+    },
+    {
+      "action": "add_image",
+      "group": "包裝",
+      "category": "盒子",
+      "label": "包裝/盒子",
+      "filename": "20260822_235820.jpg",
+      "source": "manual_save",
+      "time": "2026-08-22T23:58:20.472405"
+    },
+    {
+      "action": "add_image",
+      "group": "包裝",
+      "category": "橡皮擦",
+      "label": "包裝/橡皮擦",
+      "filename": "20260823_000251.jpg",
+      "source": "manual_save",
+      "time": "2026-08-23T00:02:51.350851"
+    },
+    {
+      "action": "add_image",
+      "group": "包裝",
+      "category": "盒子",
+      "label": "包裝/盒子",
+      "filename": "20260823_000304.jpg",
+      "source": "manual_save",
+      "time": "2026-08-23T00:03:04.230470"
+    },
+    {
+      "action": "delete_image",
+      "group": "包裝",
+      "category": "橡皮擦",
+      "label": "包裝/橡皮擦",
+      "filename": "20260823_000251.jpg",
+      "time": "2026-08-23T00:04:00.712690"
+    },
+    {
+      "action": "add_image",
+      "group": "包裝",
+      "category": "盒子",
+      "label": "包裝/盒子",
+      "filename": "20260823_000510.jpg",
+      "source": "manual_save",
+      "time": "2026-08-23T00:05:10.554410"
+    },
+    {
+      "action": "add_image",
+      "group": "包裝",
+      "category": "盒子",
+      "label": "包裝/盒子",
+      "filename": "20260823_000618.jpg",
+      "source": "manual_save",
+      "time": "2026-08-23T00:06:18.914061"
+    },
+    {
+      "action": "add_image",
+      "group": "包裝",
+      "category": "盒子",
+      "label": "包裝/盒子",
+      "filename": "1.jpg",
+      "source": "manual_save",
+      "time": "2026-08-23T00:07:18.260255"
+    },
+    {
+      "action": "rename_group",
+      "old_name": "包裝",
+      "new_name": "包裝物品",
+      "time": "2026-08-23T10:24:22.634254"
+    },
+    {
+      "action": "add_image",
+      "group": "穿著用品",
+      "category": "襪子",
+      "label": "穿著用品/襪子",
+      "filename": "20260823_103251.jpg",
+      "source": "manual_save",
+      "time": "2026-08-23T10:32:51.501572"
+    },
+    {
+      "action": "rename_group",
+      "old_name": "車子",
+      "new_name": "車",
+      "time": "2026-08-23T10:44:56.779110"
+    },
+    {
+      "action": "add_image",
+      "group": "車",
+      "category": "汽車",
+      "label": "車/汽車",
+      "filename": "1000015301.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:45:47.048938"
+    },
+    {
+      "action": "add_image",
+      "group": "車",
+      "category": "汽車",
+      "label": "車/汽車",
+      "filename": "1000015303.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:45:47.106623"
+    },
+    {
+      "action": "add_image",
+      "group": "車",
+      "category": "汽車",
+      "label": "車/汽車",
+      "filename": "1000015299.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:45:47.163096"
+    },
+    {
+      "action": "add_image",
+      "group": "車",
+      "category": "汽車",
+      "label": "車/汽車",
+      "filename": "1000015298.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:45:47.220847"
+    },
+    {
+      "action": "add_image",
+      "group": "車",
+      "category": "汽車",
+      "label": "車/汽車",
+      "filename": "1000015297.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:45:47.278476"
+    },
+    {
+      "action": "add_image",
+      "group": "車",
+      "category": "汽車",
+      "label": "車/汽車",
+      "filename": "1000015307.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:45:47.333256"
+    },
+    {
+      "action": "add_image",
+      "group": "車",
+      "category": "汽車",
+      "label": "車/汽車",
+      "filename": "1000015308.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:45:47.391181"
+    },
+    {
+      "action": "add_image",
+      "group": "車",
+      "category": "汽車",
+      "label": "車/汽車",
+      "filename": "1000015309.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:45:47.447346"
+    },
+    {
+      "action": "add_image",
+      "group": "車",
+      "category": "汽車",
+      "label": "車/汽車",
+      "filename": "1000015301_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:45:48.817706"
+    },
+    {
+      "action": "add_image",
+      "group": "車",
+      "category": "汽車",
+      "label": "車/汽車",
+      "filename": "1000015303_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:45:48.884848"
+    },
+    {
+      "action": "add_image",
+      "group": "車",
+      "category": "汽車",
+      "label": "車/汽車",
+      "filename": "1000015299_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:45:48.941459"
+    },
+    {
+      "action": "add_image",
+      "group": "車",
+      "category": "汽車",
+      "label": "車/汽車",
+      "filename": "1000015298_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:45:49.071879"
+    },
+    {
+      "action": "add_image",
+      "group": "車",
+      "category": "汽車",
+      "label": "車/汽車",
+      "filename": "1000015297_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:45:49.130348"
+    },
+    {
+      "action": "add_image",
+      "group": "車",
+      "category": "汽車",
+      "label": "車/汽車",
+      "filename": "1000015307_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:45:49.186657"
+    },
+    {
+      "action": "add_image",
+      "group": "車",
+      "category": "汽車",
+      "label": "車/汽車",
+      "filename": "1000015308_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:45:49.243269"
+    },
+    {
+      "action": "add_image",
+      "group": "車",
+      "category": "汽車",
+      "label": "車/汽車",
+      "filename": "1000015309_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:45:49.302448"
+    },
+    {
+      "action": "add_image",
+      "group": "交通用品",
+      "category": "紅綠燈",
+      "label": "交通用品/紅綠燈",
+      "filename": "1000015336.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:46:24.733673"
+    },
+    {
+      "action": "add_image",
+      "group": "交通用品",
+      "category": "告示牌",
+      "label": "交通用品/告示牌",
+      "filename": "1000015328.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:47:02.123147"
+    },
+    {
+      "action": "add_image",
+      "group": "交通用品",
+      "category": "告示牌",
+      "label": "交通用品/告示牌",
+      "filename": "1000015327.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:47:02.199617"
+    },
+    {
+      "action": "add_image",
+      "group": "交通用品",
+      "category": "告示牌",
+      "label": "交通用品/告示牌",
+      "filename": "1000015326.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:47:02.263654"
+    },
+    {
+      "action": "add_image",
+      "group": "交通用品",
+      "category": "告示牌",
+      "label": "交通用品/告示牌",
+      "filename": "1000015329.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:47:02.321992"
+    },
+    {
+      "action": "add_image",
+      "group": "交通用品",
+      "category": "告示牌",
+      "label": "交通用品/告示牌",
+      "filename": "1000015335.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:47:02.383814"
+    },
+    {
+      "action": "add_image",
+      "group": "交通用品",
+      "category": "告示牌",
+      "label": "交通用品/告示牌",
+      "filename": "1000015334.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:47:02.442942"
+    },
+    {
+      "action": "add_image",
+      "group": "交通用品",
+      "category": "告示牌",
+      "label": "交通用品/告示牌",
+      "filename": "1000015325.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:47:02.503659"
+    },
+    {
+      "action": "add_image",
+      "group": "交通用品",
+      "category": "告示牌",
+      "label": "交通用品/告示牌",
+      "filename": "1000015328_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:47:03.324600"
+    },
+    {
+      "action": "add_image",
+      "group": "交通用品",
+      "category": "告示牌",
+      "label": "交通用品/告示牌",
+      "filename": "1000015327_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:47:03.382456"
+    },
+    {
+      "action": "add_image",
+      "group": "交通用品",
+      "category": "告示牌",
+      "label": "交通用品/告示牌",
+      "filename": "1000015326_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:47:03.437793"
+    },
+    {
+      "action": "add_image",
+      "group": "交通用品",
+      "category": "告示牌",
+      "label": "交通用品/告示牌",
+      "filename": "1000015329_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:47:03.495434"
+    },
+    {
+      "action": "add_image",
+      "group": "交通用品",
+      "category": "告示牌",
+      "label": "交通用品/告示牌",
+      "filename": "1000015335_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:47:03.557666"
+    },
+    {
+      "action": "add_image",
+      "group": "交通用品",
+      "category": "告示牌",
+      "label": "交通用品/告示牌",
+      "filename": "1000015334_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:47:03.612098"
+    },
+    {
+      "action": "add_image",
+      "group": "交通用品",
+      "category": "告示牌",
+      "label": "交通用品/告示牌",
+      "filename": "1000015325_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:47:03.670238"
+    },
+    {
+      "action": "add_image",
+      "group": "交通用品",
+      "category": "紅綠燈",
+      "label": "交通用品/紅綠燈",
+      "filename": "1000015336_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:47:23.306211"
+    },
+    {
+      "action": "add_image",
+      "group": "交通用品",
+      "category": "紅綠燈",
+      "label": "交通用品/紅綠燈",
+      "filename": "1000015319.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:47:23.365759"
+    },
+    {
+      "action": "add_image",
+      "group": "交通用品",
+      "category": "紅綠燈",
+      "label": "交通用品/紅綠燈",
+      "filename": "1000015309.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:47:23.422410"
+    },
+    {
+      "action": "add_image",
+      "group": "交通用品",
+      "category": "紅綠燈",
+      "label": "交通用品/紅綠燈",
+      "filename": "1000015336_2.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:47:25.486511"
+    },
+    {
+      "action": "add_image",
+      "group": "交通用品",
+      "category": "紅綠燈",
+      "label": "交通用品/紅綠燈",
+      "filename": "1000015319_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:47:25.557246"
+    },
+    {
+      "action": "add_image",
+      "group": "交通用品",
+      "category": "紅綠燈",
+      "label": "交通用品/紅綠燈",
+      "filename": "1000015309_1.jpg",
+      "source": "training_upload",
+      "time": "2026-08-23T10:47:25.613634"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "桌子",
+      "label": "日常用品/桌子",
+      "filename": "桌子.jpg",
+      "source": "manual_save",
+      "time": "2026-08-23T13:31:53.963923"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "背包",
+      "label": "日常用品/背包",
+      "filename": "20260823_145657.jpg",
+      "source": "manual_save",
+      "time": "2026-08-23T14:56:58.000897"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "平板",
+      "label": "電子器材/平板",
+      "filename": "20260823_145949.jpg",
+      "source": "manual_save",
+      "time": "2026-08-23T14:59:49.333068"
+    },
+    {
+      "action": "add_image",
+      "group": "電子器材",
+      "category": "手錶",
+      "label": "電子器材/手錶",
+      "filename": "手錶.jpg",
+      "source": "manual_save",
+      "time": "2026-08-23T15:00:29.809360"
+    },
+    {
+      "action": "add_image",
+      "group": "穿著用品",
+      "category": "襪子",
+      "label": "穿著用品/襪子",
+      "filename": "20260823_150207.jpg",
+      "source": "manual_save",
+      "time": "2026-08-23T15:02:07.056942"
+    },
+    {
+      "action": "add_image",
+      "group": "金錢",
+      "category": "發票",
+      "label": "金錢/發票",
+      "filename": "20260823_150920.jpg",
+      "source": "manual_save",
+      "time": "2026-08-23T15:09:20.647288"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "瓶子",
+      "label": "水果/瓶子",
+      "filename": "20260823_151300.jpg",
+      "source": "manual_save",
+      "time": "2026-08-23T15:13:00.381321"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "瓶子",
+      "label": "水果/瓶子",
+      "filename": "瓶子.jpg",
+      "source": "manual_save",
+      "time": "2026-08-23T15:13:25.674807"
+    },
+    {
+      "action": "add_image",
+      "group": "運動用品",
+      "category": "鞋子",
+      "label": "運動用品/鞋子",
+      "filename": "20260823_154125.jpg",
+      "source": "manual_save",
+      "time": "2026-08-23T15:41:25.827863"
+    },
+    {
+      "action": "add_image",
+      "group": "運動用品",
+      "category": "鞋子",
+      "label": "運動用品/鞋子",
+      "filename": "鞋子.jpg",
+      "source": "manual_save",
+      "time": "2026-08-23T15:41:38.370659"
+    },
+    {
+      "action": "add_image",
+      "group": "家中物品",
+      "category": "洗衣機",
+      "label": "家中物品/洗衣機",
+      "filename": "20260912_154712.jpg",
+      "source": "manual_save",
+      "time": "2026-09-12T15:47:12.307298"
+    },
+    {
+      "action": "add_image",
+      "group": "車",
+      "category": "機車",
+      "label": "車/機車",
+      "filename": "20260912_211347.jpg",
+      "source": "manual_save",
+      "time": "2026-09-12T21:13:47.539551"
+    },
+    {
+      "action": "add_image",
+      "group": "車",
+      "category": "汽車",
+      "label": "車/汽車",
+      "filename": "20260912_215716.jpg",
+      "source": "manual_save",
+      "time": "2026-09-12T21:57:16.519649"
+    },
+    {
+      "action": "add_image",
+      "group": "車",
+      "category": "汽車",
+      "label": "車/汽車",
+      "filename": "汽車.jpg",
+      "source": "manual_save",
+      "time": "2026-09-12T21:57:45.482516"
+    },
+    {
+      "action": "add_image",
+      "group": "車",
+      "category": "汽車",
+      "label": "車/汽車",
+      "filename": "20260912_215808.jpg",
+      "source": "manual_save",
+      "time": "2026-09-12T21:58:08.435285"
+    }
+  ],
+  "pending": {
+    "20260627_145104.webp": {
+      "suggested_category": "砂紙",
+      "time": "2026-06-27T14:51:04.298077"
+    },
+    "20260627_145136.webp": {
+      "suggested_category": "砂紙",
+      "time": "2026-06-27T14:51:36.385325"
+    },
+    "20260627_145826.webp": {
+      "suggested_category": "其他五金",
+      "time": "2026-06-27T14:58:26.416284"
+    },
+    "20260627_145848.webp": {
+      "suggested_category": "其他五金",
+      "time": "2026-06-27T14:58:48.176613"
+    },
+    "20260627_145858.webp": {
+      "suggested_category": "其他五金",
+      "time": "2026-06-27T14:58:58.411772"
+    },
+    "20260627_154228.jpg": {
+      "suggested_category": "五金/華司",
+      "time": "2026-06-27T15:42:28.973275"
+    },
+    "20260627_154330.jpg": {
+      "suggested_category": "五金/華司",
+      "time": "2026-06-27T15:43:30.599698"
+    },
+    "20260627_154345.jpg": {
+      "suggested_category": "五金/華司",
+      "time": "2026-06-27T15:43:45.966004"
+    },
+    "20260627_154802.jpg": {
+      "suggested_category": "水果/橘子",
+      "time": "2026-06-27T15:48:02.681983"
+    },
+    "20260627_154826.jpg": {
+      "suggested_category": "水果/橘子",
+      "time": "2026-06-27T15:48:26.467120"
+    },
+    "20260627_155254.jpg": {
+      "suggested_category": "五金/螺絲",
+      "time": "2026-06-27T15:52:54.327196"
+    },
+    "20260627_155308.jpg": {
+      "suggested_category": "五金/螺絲",
+      "time": "2026-06-27T15:53:08.512228"
+    },
+    "20260725_223304.webp": {
+      "suggested_category": "水果/芒果",
+      "time": "2026-07-25T22:33:04.672798"
+    },
+    "20260806_113857.jpg": {
+      "suggested_category": "水果/橘子",
+      "time": "2026-08-06T11:38:57.064523"
+    },
+    "20260807_194328.jpg": {
+      "suggested_category": "電子器材/電視",
+      "time": "2026-08-07T19:43:28.472308"
+    },
+    "20260807_194658.jpg": {
+      "suggested_category": "電子器材/電視",
+      "time": "2026-08-07T19:46:58.637555"
+    },
+    "20260807_194746.jpg": {
+      "suggested_category": "日常用品/書",
+      "time": "2026-08-07T19:47:47.010985"
+    },
+    "20260813_124648.jpg": {
+      "suggested_category": "五金/螺絲",
+      "time": "2026-08-13T12:46:48.507600"
+    },
+    "20260822_215957.jpg": {
+      "suggested_category": "日常用品/眼罩",
+      "time": "2026-08-22T21:59:57.285344"
+    },
+    "20260822_220023.jpg": {
+      "suggested_category": "日常用品/眼罩",
+      "time": "2026-08-22T22:00:23.132168"
+    },
+    "20260822_221914.jpg": {
+      "suggested_category": "清潔用品/衛生紙",
+      "time": "2026-08-22T22:19:14.785176"
+    },
+    "20260822_222521.jpg": {
+      "suggested_category": "清潔用品/衛生紙",
+      "time": "2026-08-22T22:25:21.749694"
+    },
+    "20260823_000614.jpg": {
+      "suggested_category": "包裝/盒子",
+      "time": "2026-08-23T00:06:14.387073"
+    }
+  },
+  "groups": {
+    "鮮果": {
+      "created_at": "2026-06-27T15:12:21.246861",
+      "preset": true,
+      "renamed_at": "2026-06-27T15:28:49.403570",
+      "previous_name": "水果"
+    },
+    "水果": {
+      "created_at": "2026-06-27T15:28:49.406600",
+      "preset": true
+    },
+    "1": {
+      "created_at": "2026-06-27T15:12:21.248495",
+      "preset": true,
+      "renamed_at": "2026-06-27T15:30:29.445149",
+      "previous_name": "五金"
+    },
+    "五金": {
+      "renamed_at": "2026-06-27T15:30:43.297887",
+      "previous_name": "其他"
+    },
+    "日常用品": {
+      "created_at": "2026-07-26T11:45:12.243068",
+      "preset": false
+    },
+    "3c": {
+      "created_at": "2026-08-06T11:32:12.573142",
+      "preset": false
+    },
+    "電子器材": {
+      "created_at": "2026-08-06T11:26:20.371517",
+      "preset": false
+    },
+    "文具": {
+      "created_at": "2026-08-14T12:36:02.391468",
+      "preset": false
+    },
+    "飲食用品": {
+      "created_at": "2026-08-14T12:39:38.704139",
+      "preset": false
+    },
+    "家中物品": {
+      "created_at": "2026-08-14T12:43:29.735530",
+      "preset": false,
+      "renamed_at": "2026-08-14T12:43:57.341642",
+      "previous_name": "家中我物品"
+    },
+    "運動用品": {
+      "created_at": "2026-08-22T18:56:57.499137",
+      "preset": false
+    },
+    "金錢": {
+      "created_at": "2026-08-22T19:07:31.228330",
+      "preset": false
+    },
+    "清潔用品": {
+      "created_at": "2026-08-22T19:23:09.988444",
+      "preset": false
+    },
+    "煮飯用品": {
+      "created_at": "2026-08-22T19:27:23.886147",
+      "preset": false
+    },
+    "穿著用品": {
+      "created_at": "2026-08-22T19:30:24.000107",
+      "preset": false
+    },
+    "包裝物品": {
+      "created_at": "2026-08-14T12:52:03.323710",
+      "preset": false,
+      "renamed_at": "2026-08-23T10:24:22.634210",
+      "previous_name": "包裝"
+    },
+    "車": {
+      "created_at": "2026-08-23T10:44:43.735615",
+      "preset": false,
+      "renamed_at": "2026-08-23T10:44:56.779085",
+      "previous_name": "車子"
+    },
+    "交通用品": {
+      "created_at": "2026-08-23T10:46:03.625449",
+      "preset": false
+    }
+  },
+  "renamed_presets": {
+    "五金": "1"
+  }
+}

@@ -1,0 +1,1428 @@
+{
+  "categories": {
+    "釘子": {
+      "description": "",
+      "created_at": "2026-06-27T14:46:45.406152"
+    },
+    "墊片": {
+      "description": "",
+      "created_at": "2026-06-27T14:49:43.944043"
+    },
+    "彈簧": {
+      "description": "",
+      "created_at": "2026-06-27T14:56:09.854721"
+    },
+    "華司": {
+      "description": "",
+      "created_at": "2026-06-27T14:57:22.773370"
+    },
+    "螺絲": {
+      "description": "",
+      "created_at": "2026-06-27T14:57:54.999464"
+    },
+    "鮮果/蘋果": {
+      "group": "鮮果",
+      "name": "蘋果",
+      "preset": true
+    },
+    "鮮果/香蕉": {
+      "group": "鮮果",
+      "name": "香蕉",
+      "preset": true
+    },
+    "鮮果/橘子": {
+      "group": "鮮果",
+      "name": "橘子",
+      "preset": true
+    },
+    "鮮果/葡萄": {
+      "group": "鮮果",
+      "name": "葡萄",
+      "preset": true
+    },
+    "鮮果/西瓜": {
+      "group": "鮮果",
+      "name": "西瓜",
+      "preset": true
+    },
+    "1/螺絲": {
+      "group": "1",
+      "name": "螺絲",
+      "preset": true
+    },
+    "1/螺母": {
+      "group": "1",
+      "name": "螺母",
+      "preset": true
+    },
+    "1/墊片": {
+      "group": "1",
+      "name": "墊片",
+      "preset": true
+    },
+    "1/扳手": {
+      "group": "1",
+      "name": "扳手",
+      "preset": true
+    },
+    "1/螺栓": {
+      "group": "1",
+      "name": "螺栓",
+      "preset": true
+    },
+    "水果/蘋果": {
+      "group": "水果",
+      "name": "蘋果",
+      "description": "",
+      "created_at": "2026-06-27T15:49:50.450847"
+    },
+    "水果/香蕉": {
+      "group": "水果",
+      "name": "香蕉",
+      "description": "",
+      "created_at": "2026-06-27T15:38:36.865163"
+    },
+    "水果/橘子": {
+      "group": "水果",
+      "name": "橘子",
+      "description": "",
+      "created_at": "2026-07-25T11:26:33.651375"
+    },
+    "水果/葡萄": {
+      "group": "水果",
+      "name": "葡萄",
+      "description": "",
+      "created_at": "2026-07-25T11:26:23.879294"
+    },
+    "水果/西瓜": {
+      "group": "水果",
+      "name": "西瓜",
+      "description": "",
+      "created_at": "2026-06-27T15:50:47.703225"
+    },
+    "五金/墊片": {
+      "group": "五金",
+      "name": "墊片",
+      "description": "",
+      "created_at": "2026-06-27T15:37:00.243846"
+    },
+    "水果/草莓": {
+      "group": "水果",
+      "name": "草莓",
+      "description": "",
+      "created_at": "2026-06-27T15:40:11.736660"
+    },
+    "水果/芒果": {
+      "group": "水果",
+      "name": "芒果",
+      "description": "",
+      "created_at": "2026-07-25T22:33:09.863499"
+    },
+    "五金/燈": {
+      "group": "五金",
+      "name": "燈",
+      "description": "",
+      "created_at": "2026-07-26T11:43:48.178954"
+    },
+    "日常用品/外套": {
+      "group": "日常用品",
+      "name": "外套",
+      "description": "",
+      "created_at": "2026-07-26T11:45:43.064244"
+    },
+    "3c/手錶": {
+      "group": "3c",
+      "name": "手錶",
+      "description": "",
+      "created_at": "2026-07-26T11:51:18.196964"
+    },
+    "日常用品/手機": {
+      "group": "日常用品",
+      "name": "手機",
+      "description": "",
+      "created_at": "2026-07-26T12:01:26.372811"
+    }
+  },
+  "history": [
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (1).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:44.325630"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (2).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:44.393149"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (3).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:44.449335"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (4).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:44.499059"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (5).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.555700"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (1)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.569642"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (6).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.605468"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (2)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.607806"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (7).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.652855"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (3)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.653858"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (8).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.695635"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (4)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.696648"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (9).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.741241"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (5)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.742130"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (10).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.781688"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (6)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.782625"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (7)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.811910"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (8)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.834879"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (9)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.857810"
+    },
+    {
+      "action": "add_image",
+      "category": "釘子",
+      "filename": "1 (10)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:46:46.880326"
+    },
+    {
+      "action": "add_image",
+      "category": "墊片",
+      "filename": "1 (1).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:49:43.962343"
+    },
+    {
+      "action": "add_image",
+      "category": "墊片",
+      "filename": "1 (2).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:49:43.990287"
+    },
+    {
+      "action": "add_image",
+      "category": "墊片",
+      "filename": "1 (3).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:49:44.013608"
+    },
+    {
+      "action": "add_image",
+      "category": "墊片",
+      "filename": "1 (4).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:49:44.037200"
+    },
+    {
+      "action": "add_image",
+      "category": "墊片",
+      "filename": "1 (5).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:49:44.059098"
+    },
+    {
+      "action": "add_image",
+      "category": "墊片",
+      "filename": "1 (6).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:49:44.082186"
+    },
+    {
+      "action": "add_image",
+      "category": "墊片",
+      "filename": "1 (7).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:49:44.105456"
+    },
+    {
+      "action": "add_image",
+      "category": "墊片",
+      "filename": "1 (8).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:49:44.127701"
+    },
+    {
+      "action": "add_image",
+      "category": "墊片",
+      "filename": "1.webp",
+      "source": "manual_save",
+      "time": "2026-06-27T14:51:28.513339"
+    },
+    {
+      "action": "add_image",
+      "category": "彈簧",
+      "filename": "1 (6).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:09.871647"
+    },
+    {
+      "action": "add_image",
+      "category": "彈簧",
+      "filename": "1 (7).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:09.895698"
+    },
+    {
+      "action": "add_image",
+      "category": "彈簧",
+      "filename": "1 (8).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:09.920342"
+    },
+    {
+      "action": "add_image",
+      "category": "彈簧",
+      "filename": "1 (9).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:09.943704"
+    },
+    {
+      "action": "add_image",
+      "category": "彈簧",
+      "filename": "1 (10).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:09.969327"
+    },
+    {
+      "action": "add_image",
+      "category": "彈簧",
+      "filename": "1 (11).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:09.996705"
+    },
+    {
+      "action": "add_image",
+      "category": "彈簧",
+      "filename": "1 (1).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:10.020012"
+    },
+    {
+      "action": "add_image",
+      "category": "彈簧",
+      "filename": "1 (2).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:10.043195"
+    },
+    {
+      "action": "add_image",
+      "category": "彈簧",
+      "filename": "1 (3).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:10.066240"
+    },
+    {
+      "action": "add_image",
+      "category": "彈簧",
+      "filename": "1 (4).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:10.089914"
+    },
+    {
+      "action": "add_image",
+      "category": "彈簧",
+      "filename": "1 (5).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:10.114568"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (6).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:50.087946"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (7).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:50.110215"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (8).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:50.136993"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (1).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:50.165312"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (2).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:50.191485"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (3).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:50.221128"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (4).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:50.248104"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (5).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:56:50.271216"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (1)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:22.789021"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (2)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:22.813110"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (3)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:22.840814"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (4)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:22.866963"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (5)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:22.896455"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (6)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:22.923148"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (7)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:22.950198"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (8)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:22.974361"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (9).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:22.999380"
+    },
+    {
+      "action": "add_image",
+      "category": "華司",
+      "filename": "1 (10).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:23.030813"
+    },
+    {
+      "action": "add_image",
+      "category": "螺絲",
+      "filename": "1 (1).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:55.015991"
+    },
+    {
+      "action": "add_image",
+      "category": "螺絲",
+      "filename": "1 (1).png",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:55.028313"
+    },
+    {
+      "action": "add_image",
+      "category": "螺絲",
+      "filename": "1 (2).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:55.047436"
+    },
+    {
+      "action": "add_image",
+      "category": "螺絲",
+      "filename": "1 (3).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:55.074488"
+    },
+    {
+      "action": "add_image",
+      "category": "螺絲",
+      "filename": "1 (4).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:55.102642"
+    },
+    {
+      "action": "add_image",
+      "category": "螺絲",
+      "filename": "1 (5).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:55.128632"
+    },
+    {
+      "action": "add_image",
+      "category": "螺絲",
+      "filename": "1 (6).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:55.153470"
+    },
+    {
+      "action": "add_image",
+      "category": "螺絲",
+      "filename": "1 (7).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:55.176360"
+    },
+    {
+      "action": "add_image",
+      "category": "螺絲",
+      "filename": "1 (9).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:55.198943"
+    },
+    {
+      "action": "add_image",
+      "category": "螺絲",
+      "filename": "1 (8).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T14:57:55.225728"
+    },
+    {
+      "action": "add_image",
+      "category": "墊片",
+      "filename": "1_1.webp",
+      "source": "manual_save",
+      "time": "2026-06-27T14:58:45.181592"
+    },
+    {
+      "action": "add_image",
+      "category": "墊片",
+      "filename": "1_2.webp",
+      "source": "manual_save",
+      "time": "2026-06-27T14:58:56.474526"
+    },
+    {
+      "action": "add_image",
+      "category": "墊片",
+      "filename": "20260627_145909.webp",
+      "source": "manual_save",
+      "time": "2026-06-27T14:59:09.115740"
+    },
+    {
+      "action": "rename_group",
+      "old_name": "水果",
+      "new_name": "鮮果",
+      "time": "2026-06-27T15:28:49.403602"
+    },
+    {
+      "action": "rename_group",
+      "old_name": "五金",
+      "new_name": "1",
+      "time": "2026-06-27T15:30:29.445177"
+    },
+    {
+      "action": "rename_group",
+      "old_name": "其他",
+      "new_name": "五金",
+      "time": "2026-06-27T15:30:43.297904"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "墊片",
+      "label": "五金/墊片",
+      "filename": "20260627_153147.webp",
+      "source": "manual_save",
+      "time": "2026-06-27T15:31:47.018208"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "香蕉",
+      "label": "水果/香蕉",
+      "filename": "images.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:33:22.830811"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "香蕉",
+      "label": "水果/香蕉",
+      "filename": "images_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:35:22.615930"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "香蕉",
+      "label": "水果/香蕉",
+      "filename": "images_2.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:35:44.567027"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "香蕉",
+      "label": "水果/香蕉",
+      "filename": "images_3.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:35:56.542701"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "墊片",
+      "label": "五金/墊片",
+      "filename": "1 (1)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:36:58.206501"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "墊片",
+      "label": "五金/墊片",
+      "filename": "1 (2)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:36:58.270781"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "墊片",
+      "label": "五金/墊片",
+      "filename": "1 (3)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:36:58.338016"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "墊片",
+      "label": "五金/墊片",
+      "filename": "1 (4)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:36:58.437673"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "墊片",
+      "label": "五金/墊片",
+      "filename": "1 (1)_2.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:37:00.254007"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "香蕉",
+      "label": "水果/香蕉",
+      "filename": "1 (4).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:38:36.722802"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "香蕉",
+      "label": "水果/香蕉",
+      "filename": "1 (1).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:38:36.756832"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "香蕉",
+      "label": "水果/香蕉",
+      "filename": "1 (1)_1.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:38:36.797201"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "香蕉",
+      "label": "水果/香蕉",
+      "filename": "1 (2).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:38:36.839206"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "香蕉",
+      "label": "水果/香蕉",
+      "filename": "1 (3).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:38:36.875800"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "草莓",
+      "label": "水果/草莓",
+      "filename": "1 (8).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:40:11.476456"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "草莓",
+      "label": "水果/草莓",
+      "filename": "1 (9).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:40:11.516443"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "草莓",
+      "label": "水果/草莓",
+      "filename": "1 (10).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:40:11.554377"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "草莓",
+      "label": "水果/草莓",
+      "filename": "1 (11).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:40:11.594248"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "草莓",
+      "label": "水果/草莓",
+      "filename": "1 (12).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:40:11.634449"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "草莓",
+      "label": "水果/草莓",
+      "filename": "1 (5).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:40:11.668417"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "草莓",
+      "label": "水果/草莓",
+      "filename": "1 (6).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:40:11.703550"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "草莓",
+      "label": "水果/草莓",
+      "filename": "1 (7).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:40:11.746610"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "橘子",
+      "label": "水果/橘子",
+      "filename": "1 (17).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:41:24.826859"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "橘子",
+      "label": "水果/橘子",
+      "filename": "1 (18).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:41:24.872784"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "橘子",
+      "label": "水果/橘子",
+      "filename": "1 (19).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:41:24.920992"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "橘子",
+      "label": "水果/橘子",
+      "filename": "1 (20).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:41:24.957098"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "橘子",
+      "label": "水果/橘子",
+      "filename": "1 (13).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:41:25.006962"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "橘子",
+      "label": "水果/橘子",
+      "filename": "1 (14).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:41:25.053582"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "橘子",
+      "label": "水果/橘子",
+      "filename": "1 (15).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:41:25.112865"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "橘子",
+      "label": "水果/橘子",
+      "filename": "1 (16).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:41:25.172185"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "橘子",
+      "label": "水果/橘子",
+      "filename": "20260627_154319.jpg",
+      "source": "manual_save",
+      "time": "2026-06-27T15:43:19.177645"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "橘子",
+      "label": "水果/橘子",
+      "filename": "華司.jpg",
+      "source": "manual_save",
+      "time": "2026-06-27T15:43:43.131977"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "橘子",
+      "label": "水果/橘子",
+      "filename": "20260627_154354.jpg",
+      "source": "manual_save",
+      "time": "2026-06-27T15:43:54.831843"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "葡萄",
+      "label": "水果/葡萄",
+      "filename": "1 (24).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:45:38.648874"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "葡萄",
+      "label": "水果/葡萄",
+      "filename": "1 (25).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:45:38.698476"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "葡萄",
+      "label": "水果/葡萄",
+      "filename": "1 (26).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:45:38.742872"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "葡萄",
+      "label": "水果/葡萄",
+      "filename": "1 (27).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:45:38.784862"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "葡萄",
+      "label": "水果/葡萄",
+      "filename": "1 (28).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:45:38.824495"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "葡萄",
+      "label": "水果/葡萄",
+      "filename": "1 (29).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:45:38.869162"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "葡萄",
+      "label": "水果/葡萄",
+      "filename": "1 (30).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:45:38.907074"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "葡萄",
+      "label": "水果/葡萄",
+      "filename": "1 (31).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:45:38.948572"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "葡萄",
+      "label": "水果/葡萄",
+      "filename": "1 (32).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:45:38.992624"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "葡萄",
+      "label": "水果/葡萄",
+      "filename": "1 (33).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:45:39.053167"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "葡萄",
+      "label": "水果/葡萄",
+      "filename": "1 (21).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:45:39.098217"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "葡萄",
+      "label": "水果/葡萄",
+      "filename": "1 (22).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:45:39.151342"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "葡萄",
+      "label": "水果/葡萄",
+      "filename": "1 (23).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:45:39.189604"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "橘子",
+      "label": "水果/橘子",
+      "filename": "20260627_154812.jpg",
+      "source": "manual_save",
+      "time": "2026-06-27T15:48:12.673879"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "蘋果",
+      "label": "水果/蘋果",
+      "filename": "images.jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:49:50.152104"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "蘋果",
+      "label": "水果/蘋果",
+      "filename": "images (7).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:49:50.195391"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "蘋果",
+      "label": "水果/蘋果",
+      "filename": "images (6).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:49:50.235553"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "蘋果",
+      "label": "水果/蘋果",
+      "filename": "images (5).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:49:50.280341"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "蘋果",
+      "label": "水果/蘋果",
+      "filename": "images (4).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:49:50.337590"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "蘋果",
+      "label": "水果/蘋果",
+      "filename": "images (3).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:49:50.386562"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "蘋果",
+      "label": "水果/蘋果",
+      "filename": "images (2).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:49:50.422157"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "蘋果",
+      "label": "水果/蘋果",
+      "filename": "images (1).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:49:50.461561"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "西瓜",
+      "label": "水果/西瓜",
+      "filename": "1 (38).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:50:47.360112"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "西瓜",
+      "label": "水果/西瓜",
+      "filename": "1 (39).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:50:47.404800"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "西瓜",
+      "label": "水果/西瓜",
+      "filename": "1 (40).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:50:47.452697"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "西瓜",
+      "label": "水果/西瓜",
+      "filename": "1 (41).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:50:47.503766"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "西瓜",
+      "label": "水果/西瓜",
+      "filename": "1 (34).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:50:47.549859"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "西瓜",
+      "label": "水果/西瓜",
+      "filename": "1 (35).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:50:47.622301"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "西瓜",
+      "label": "水果/西瓜",
+      "filename": "1 (36).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:50:47.676462"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "西瓜",
+      "label": "水果/西瓜",
+      "filename": "1 (37).jpg",
+      "source": "training_upload",
+      "time": "2026-06-27T15:50:47.714750"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "葡萄",
+      "label": "水果/葡萄",
+      "filename": "1.jpg",
+      "source": "manual_save",
+      "time": "2026-06-27T15:53:04.640783"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "芒果",
+      "label": "水果/芒果",
+      "filename": "1.webp",
+      "source": "manual_save",
+      "time": "2026-07-25T10:46:41.720959"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "葡萄",
+      "label": "水果/葡萄",
+      "filename": "葡萄.jpg",
+      "source": "manual_save",
+      "time": "2026-07-25T11:26:23.890139"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "橘子",
+      "label": "水果/橘子",
+      "filename": "橘子.jpg",
+      "source": "manual_save",
+      "time": "2026-07-25T11:26:33.659726"
+    },
+    {
+      "action": "add_image",
+      "group": "水果",
+      "category": "芒果",
+      "label": "水果/芒果",
+      "filename": "芒果.webp",
+      "source": "manual_save",
+      "time": "2026-07-25T22:33:09.867467"
+    },
+    {
+      "action": "add_image",
+      "group": "五金",
+      "category": "燈",
+      "label": "五金/燈",
+      "filename": "燈.jpg",
+      "source": "manual_save",
+      "time": "2026-07-26T11:43:48.218679"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "外套",
+      "label": "日常用品/外套",
+      "filename": "1.jpg",
+      "source": "manual_save",
+      "time": "2026-07-26T11:45:43.093906"
+    },
+    {
+      "action": "add_image",
+      "group": "3c",
+      "category": "手錶",
+      "label": "3c/手錶",
+      "filename": "20260726_115118.jpg",
+      "source": "manual_save",
+      "time": "2026-07-26T11:51:18.240900"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "手機",
+      "label": "日常用品/手機",
+      "filename": "20260726_120125.jpg",
+      "source": "manual_save",
+      "time": "2026-07-26T12:01:25.907013"
+    },
+    {
+      "action": "add_image",
+      "group": "日常用品",
+      "category": "手機",
+      "label": "日常用品/手機",
+      "filename": "20260726_120125_1.jpg",
+      "source": "manual_save",
+      "time": "2026-07-26T12:01:26.036333"
+    }
+  ],
+  "pending": {
+    "20260627_145104.webp": {
+      "suggested_category": "砂紙",
+      "time": "2026-06-27T14:51:04.298077"
+    },
+    "20260627_145136.webp": {
+      "suggested_category": "砂紙",
+      "time": "2026-06-27T14:51:36.385325"
+    },
+    "20260627_145826.webp": {
+      "suggested_category": "其他五金",
+      "time": "2026-06-27T14:58:26.416284"
+    },
+    "20260627_145848.webp": {
+      "suggested_category": "其他五金",
+      "time": "2026-06-27T14:58:48.176613"
+    },
+    "20260627_145858.webp": {
+      "suggested_category": "其他五金",
+      "time": "2026-06-27T14:58:58.411772"
+    },
+    "20260627_154228.jpg": {
+      "suggested_category": "五金/華司",
+      "time": "2026-06-27T15:42:28.973275"
+    },
+    "20260627_154330.jpg": {
+      "suggested_category": "五金/華司",
+      "time": "2026-06-27T15:43:30.599698"
+    },
+    "20260627_154345.jpg": {
+      "suggested_category": "五金/華司",
+      "time": "2026-06-27T15:43:45.966004"
+    },
+    "20260627_154802.jpg": {
+      "suggested_category": "水果/橘子",
+      "time": "2026-06-27T15:48:02.681983"
+    },
+    "20260627_154826.jpg": {
+      "suggested_category": "水果/橘子",
+      "time": "2026-06-27T15:48:26.467120"
+    },
+    "20260627_155254.jpg": {
+      "suggested_category": "五金/螺絲",
+      "time": "2026-06-27T15:52:54.327196"
+    },
+    "20260627_155308.jpg": {
+      "suggested_category": "五金/螺絲",
+      "time": "2026-06-27T15:53:08.512228"
+    },
+    "20260725_223304.webp": {
+      "suggested_category": "水果/芒果",
+      "time": "2026-07-25T22:33:04.672798"
+    }
+  },
+  "groups": {
+    "鮮果": {
+      "created_at": "2026-06-27T15:12:21.246861",
+      "preset": true,
+      "renamed_at": "2026-06-27T15:28:49.403570",
+      "previous_name": "水果"
+    },
+    "水果": {
+      "created_at": "2026-06-27T15:28:49.406600",
+      "preset": true
+    },
+    "1": {
+      "created_at": "2026-06-27T15:12:21.248495",
+      "preset": true,
+      "renamed_at": "2026-06-27T15:30:29.445149",
+      "previous_name": "五金"
+    },
+    "五金": {
+      "renamed_at": "2026-06-27T15:30:43.297887",
+      "previous_name": "其他"
+    },
+    "日常用品": {
+      "created_at": "2026-07-26T11:45:12.243068",
+      "preset": false
+    },
+    "3c": {
+      "created_at": "2026-07-26T11:51:12.498197",
+      "preset": false
+    }
+  },
+  "renamed_presets": {
+    "五金": "1"
+  }
+}日常用品": {
+      "created_at": "2026-07-26T11:45:12.243068",
+      "preset": false
+    },
+    "3c": {
+      "created_at": "2026-07-26T11:51:12.498197",
+      "preset": false
+    }
+  },
+  "renamed_presets": {
+    "五金": "1"
+  }
+}

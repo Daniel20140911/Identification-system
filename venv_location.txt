@@ -1,0 +1,9 @@
+venv 不在專案資料夾內（OneDrive 會鎖檔，所以改放本機）。
+
+venv 資料夾：
+C:\Users\11009_5d7j\AppData\Local\hardware-recognizer\venv-a32f48a503
+
+Python 執行檔：
+C:\Users\11009_5d7j\AppData\Local\hardware-recognizer\venv-a32f48a503\Scripts\python.exe
+
+啟動方式：雙擊「啟動伺服器.bat」或 start.bat

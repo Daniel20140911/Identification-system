@@ -1,0 +1,1 @@
+@echo off\ncd /d \"%~dp0\"\ncall stop.bat\n
